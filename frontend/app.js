@@ -58,10 +58,10 @@ function showToast(message, type = 'info') {
 // CONFIGURATION
 // ══════════════════════════════════════════════════════════════════════
 
-// Detection logic for Render deployment vs Localhost
+// Detection logic for Render deployment vs Localhost vs Relative path (Hugging Face)
 const API_BASE_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
     ? 'http://localhost:8000/api'
-    : 'https://autoledger-backend.onrender.com/api'; // This should match your backend service name on Render
+    : window.location.origin + '/api';
 
 // ══════════════════════════════════════════════════════════════════════
 // API HELPERS

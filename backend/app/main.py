@@ -99,3 +99,19 @@ def root():
 @app.get("/health", tags=["Root"])
 def health():
     return {"status": "healthy"}
+
+# ── Serve Frontend ───────────────────────────────────────────────────
+# Mount static files (JS, CSS, images)
+# Note: In production/Docker, the path will be /app/frontend
+import os
+from fastapi.responses import FileResponse
+
+frontend_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "frontend")
+
+@app.get("/", tags=["Frontend"])
+async def serve_frontend():
+    return FileResponse(os.path.join(frontend_path, "index.html"))
+
+app.mount("/static", StaticFiles(directory=frontend_path), name="static")
+# We also need to serve the frontend root for common assets if they aren't in /static
+app.mount("/", StaticFiles(directory=frontend_path, html=True), name="frontend")
