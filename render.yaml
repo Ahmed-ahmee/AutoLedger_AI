@@ -12,8 +12,9 @@ services:
         value: 3.10.0
 
   # Frontend Static service
-  - type: static
+  - type: web
     name: autoledger-frontend
+    env: static
     publishPath: ./frontend
     envVars:
       - key: BACKEND_URL
