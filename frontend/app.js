@@ -55,12 +55,21 @@ function showToast(message, type = 'info') {
 }
 
 // ══════════════════════════════════════════════════════════════════════
+// CONFIGURATION
+// ══════════════════════════════════════════════════════════════════════
+
+// Detection logic for Render deployment vs Localhost
+const API_BASE_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+    ? 'http://localhost:8000/api'
+    : 'https://autoledger-backend.onrender.com/api'; // This should match your backend service name on Render
+
+// ══════════════════════════════════════════════════════════════════════
 // API HELPERS
 // ══════════════════════════════════════════════════════════════════════
 
 async function apiFetch(endpoint, options = {}) {
     try {
-        const res = await fetch(`${API_BASE}${endpoint}`, options);
+        const res = await fetch(`${API_BASE_URL}${endpoint}`, options);
         if (!res.ok) {
             const err = await res.json().catch(() => ({}));
             throw new Error(err.detail || `HTTP ${res.status}`);

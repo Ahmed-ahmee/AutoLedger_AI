@@ -1,0 +1,20 @@
+services:
+  # Backend FastAPI service
+  - type: web
+    name: autoledger-backend
+    env: python
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: cd backend && gunicorn app.main:app -w 4 -k uvicorn.workers.UvicornWorker -b 0.0.0.0:$PORT
+    envVars:
+      - key: DATABASE_URL
+        value: sqlite:///./data/autoledger.db
+      - key: PYTHON_VERSION
+        value: 3.10.0
+
+  # Frontend Static service
+  - type: static
+    name: autoledger-frontend
+    publishPath: ./frontend
+    envVars:
+      - key: BACKEND_URL
+        value: https://autoledger-backend.onrender.com # Change this if your name differs
