@@ -1,0 +1,1001 @@
+transaction_date,description,amount,vendor,department,gl_code
+2024-11-29,Developer tools subscription – Adobe Creative Cloud,11924.0,Adobe Creative Cloud,Executive,5400
+2024-05-25,Hotel accommodation – United Airlines business trip,1666.46,United Airlines,Finance,5200
+2024-06-30,Tax preparation – Ernst & Young engagement,27407.02,Ernst & Young,Operations,5500
+2024-12-20,Accounting & audit services – KPMG,12227.3,KPMG,IT,5500
+2024-07-19,Google Ads campaign – Operations budget Q3,4580.61,Mailchimp,Operations,5800
+2024-02-13,Software renewal – Adobe Creative Cloud platform,4072.3,Adobe Creative Cloud,HR,5400
+2024-09-28,Point of sale transaction – store #7780,5883.16,Walmart,Sales,4100
+2024-03-30,AP entry – Staples supplies,7480.66,Staples,Finance,2100
+2024-11-01,Consulting engagement – McKinsey project,19978.61,McKinsey,Sales,4200
+2024-07-28,Consulting engagement – Boston Consulting project,83058.39,Boston Consulting,Sales,4200
+2024-09-24,Vehicle depreciation – fleet #5357,5681.25,Internal,HR,6200
+2024-11-20,Annual license – Slack enterprise plan,369.05,Slack,Legal,5400
+2024-12-07,Depreciation – computer hardware Q3,2829.8,Internal,Engineering,6200
+2024-12-30,Breakroom supplies from W.B. Mason,2088.26,W.B. Mason,Sales,5100
+2024-10-27,Monthly payroll – Engineering department,102026.85,ADP Payroll,Engineering,5900
+2024-05-05,Monthly depreciation – office equipment,9506.25,Internal,IT,6200
+2024-04-21,Printer toner and paper – W.B. Mason,1976.91,W.B. Mason,Finance,5100
+2024-02-15,Stationery order #4666 from Amazon Business,1150.01,Amazon Business,Sales,5100
+2024-12-24,Social media advertising – Meta Ads,7929.88,Meta Ads,Executive,5800
+2024-07-01,Dividend declaration – Q4 distribution,63513.28,Internal,HR,3100
+2024-04-22,Property insurance renewal – Allianz,6680.35,Allianz,Marketing,6100
+2024-10-26,Referral bonus payout – partner Channel Partners,20800.4,Channel Partners,HR,5600
+2024-12-13,Office supplies purchase from Office Depot,582.4,Office Depot,Marketing,5100
+2024-08-09,Accounting & audit services – BDO,44450.72,BDO,HR,5500
+2024-11-11,Warehouse lease payment – Regus,18012.4,Regus,Operations,5700
+2024-08-10,Depreciation – computer hardware Q3,1457.95,Internal,HR,6200
+2024-08-03,Internet service – ConEdison fiber plan,262.93,ConEdison,Engineering,5300
+2024-12-26,Parking facility lease – JLL,23195.99,JLL,Operations,5700
+2024-06-11,Monthly office rent – Regus building,6112.7,Regus,Marketing,5700
+2024-09-29,Cyber liability insurance – State Farm,5991.08,State Farm,Sales,6100
+2024-04-24,Online sales revenue – batch #9441,120094.52,Walmart,Executive,4100
+2024-09-08,Trade receivable from GlobalTech,31427.82,GlobalTech,Engineering,1200
+2024-02-19,Hotel accommodation – Hertz Rental business trip,454.75,Hertz Rental,Sales,5200
+2024-07-22,Office supplies purchase from Staples,1827.13,Staples,Executive,5100
+2024-03-22,Annual license – Google Workspace enterprise plan,14842.19,Google Workspace,Marketing,5400
+2024-08-13,Property insurance renewal – Hartford,6370.75,Hartford,Executive,6100
+2024-10-16,Service contract revenue – Boston Consulting,5190.45,Boston Consulting,Engineering,4200
+2024-09-22,Annual license – Salesforce enterprise plan,7422.91,Salesforce,Engineering,5400
+2024-10-23,Property insurance renewal – Hartford,12755.47,Hartford,Operations,6100
+2024-07-29,Referral bonus payout – partner Internal Sales,2423.01,Internal Sales,IT,5600
+2024-08-06,Car rental – Delta Airlines for site inspection,4746.74,Delta Airlines,Marketing,5200
+2024-11-18,Cyber liability insurance – State Farm,5979.67,State Farm,Marketing,6100
+2024-01-17,Uber/Lyft rides – HR travel,1890.92,Hilton,HR,5200
+2024-09-21,Desk accessories and organizers – W.B. Mason,813.6,W.B. Mason,Operations,5100
+2024-01-15,Cloud hosting charges – Jira Atlassian,7930.11,Jira Atlassian,Marketing,5400
+2024-12-29,Accrued wages payable – Executive department,6962.53,Tax Authority,Executive,2200
+2024-09-13,Revenue from Walmart – bulk purchase,35147.6,Walmart,HR,4100
+2024-04-14,Monthly depreciation – office equipment,3086.43,Internal,Marketing,6200
+2024-04-06,Point of sale transaction – store #6838,74325.33,Costco,HR,4100
+2024-12-30,Tax preparation – Baker McKenzie engagement,15339.35,Baker McKenzie,Engineering,5500
+2024-01-07,Natural gas utility – Comcast Business,4441.94,Comcast Business,Marketing,5300
+2024-05-21,Bank transfer received from PNC Financial,33023.08,PNC Financial,Sales,1100
+2024-11-08,Bi-weekly salary disbursement – Finance,71243.56,ADP Payroll,Finance,5900
+2024-12-09,Revenue from Walmart – bulk purchase,142732.44,Walmart,Marketing,4100
+2024-04-06,Vehicle depreciation – fleet #2569,7468.95,Internal,Legal,6200
+2024-12-02,Influencer partnership – Google Ads,5664.86,Google Ads,Legal,5800
+2024-08-23,Accrued tax liability – Q3,21357.93,Internal,Executive,2200
+2024-05-24,Outstanding payable to Office Depot,21809.37,Office Depot,Sales,2100
+2024-06-29,Depreciation – computer hardware Q2,2324.99,Internal,Engineering,6200
+2024-03-04,Trade show booth – LinkedIn Marketing expo,13969.58,LinkedIn Marketing,Sales,5800
+2024-09-17,Flight booking – Marketing team to conference,978.89,United Airlines,Marketing,5200
+2024-06-30,Overtime compensation – Sales team,52454.41,Paychex,Sales,5900
+2024-05-24,Warehouse lease payment – Brookfield Properties,6439.38,Brookfield Properties,Marketing,5700
+2024-07-08,Monthly electricity bill – Pacific Gas & Electric,620.5,Pacific Gas & Electric,Marketing,5300
+2024-02-09,Email campaign platform – Mailchimp,14142.65,Mailchimp,Marketing,5800
+2024-05-15,Vehicle depreciation – fleet #7245,4912.7,Internal,Sales,6200
+2024-12-29,Leasehold improvements amortization,575.7,Internal,Executive,6200
+2024-10-28,Property insurance renewal – Chubb,5371.04,Chubb,Operations,6100
+2024-03-19,Petty cash replenishment,29656.33,Bank of America,Executive,1100
+2024-06-23,Sales commission – Marketing team Q2,15125.47,Partner Network,Marketing,5600
+2024-06-30,Monthly SaaS subscription – Microsoft 365,14432.5,Microsoft 365,Sales,5400
+2024-11-02,Performance bonus – sales rep #1529,15029.07,Channel Partners,Legal,5600
+2024-07-05,Co-working space rental – WeWork,3588.01,WeWork,Legal,5700
+2024-09-26,Point of sale transaction – store #4819,78670.77,Best Buy,Marketing,4100
+2024-07-22,Storage unit rental – Brookfield Properties,22878.67,Brookfield Properties,Marketing,5700
+2024-09-19,Prior period adjustment – retained earnings,50910.59,Internal,Finance,3100
+2024-08-19,Internet service – Comcast Business fiber plan,4318.44,Comcast Business,IT,5300
+2024-01-20,Sales commission – Operations team Q1,17024.39,Channel Partners,Operations,5600
+2024-12-09,Internet service – Verizon fiber plan,583.73,Verizon,Marketing,5300
+2024-09-03,Warehouse lease payment – CBRE Group,26946.0,CBRE Group,Operations,5700
+2024-06-09,Google Ads campaign – HR budget Q2,12714.39,Trade Show Inc,HR,5800
+2024-07-26,Parking facility lease – WeWork,22664.58,WeWork,Executive,5700
+2024-01-11,Monthly retainer – McKinsey advisory,47028.17,McKinsey,Executive,4200
+2024-10-27,Monthly depreciation – office equipment,8076.29,Internal,Executive,6200
+2024-06-19,Cloud hosting charges – AWS,14910.95,AWS,Sales,5400
+2024-11-17,Agent commission – contract #3622,9500.29,Partner Network,Sales,5600
+2024-09-17,Bank transfer received from Bank of America,36454.01,Bank of America,IT,1100
+2024-08-27,Employee wages – pay period #5708,61083.81,Internal HR,Operations,5900
+2024-06-01,HR consulting retainer – Grant Thornton,2166.54,Grant Thornton,Finance,5500
+2024-01-12,Warehouse lease payment – Regus,24057.81,Regus,HR,5700
+2024-12-29,Water and sewage charges – Verizon,401.1,Verizon,Engineering,5300
+2024-06-01,Online sales revenue – batch #2195,25261.61,Walmart,Operations,4100
+2024-05-12,Content marketing services – HubSpot,14080.85,HubSpot,Sales,5800
+2024-03-27,External audit fee – Ernst & Young FY review,11614.03,Ernst & Young,Sales,5500
+2024-02-13,Cloud hosting charges – Slack,6297.67,Slack,Executive,5400
+2024-04-01,Dividend declaration – Q4 distribution,96290.9,Internal,Legal,3100
+2024-07-04,Internet service – Comcast Business fiber plan,336.89,Comcast Business,HR,5300
+2024-05-24,Consulting engagement – Bain & Co project,17830.11,Bain & Co,HR,4200
+2024-11-15,Agent commission – contract #9123,10855.14,Internal Sales,Operations,5600
+2024-08-14,Trade show booth – LinkedIn Marketing expo,16116.52,LinkedIn Marketing,Executive,5800
+2024-10-11,Storage unit rental – JLL,22141.13,JLL,HR,5700
+2024-05-08,Dividend declaration – Q3 distribution,84987.77,Internal,Engineering,3100
+2024-11-07,Cyber liability insurance – Hartford,3764.11,Hartford,Sales,6100
+2024-04-08,Bi-weekly salary disbursement – Executive,80460.43,Paychex,Executive,5900
+2024-06-01,Agent commission – contract #8899,23858.48,Channel Partners,Operations,5600
+2024-02-27,Client payment due from Pinnacle Industries,55287.47,Pinnacle Industries,Sales,1200
+2024-07-03,Storage unit rental – Regus,18202.41,Regus,Executive,5700
+2024-06-29,Point of sale transaction – store #5545,26238.72,Costco,Finance,4100
+2024-06-29,Warehouse lease payment – Regus,13019.88,Regus,Marketing,5700
+2024-12-13,ATM withdrawal for operations,3389.89,Chase Bank,Executive,1100
+2024-08-26,Warehouse lease payment – JLL,14063.42,JLL,Operations,5700
+2024-07-30,Co-working space rental – Brookfield Properties,9970.62,Brookfield Properties,Sales,5700
+2024-09-06,Stationery order #3241 from Office Depot,2477.85,Office Depot,Engineering,5100
+2024-09-18,Social media advertising – Trade Show Inc,15175.51,Trade Show Inc,Legal,5800
+2024-07-14,Monthly retainer – PwC Engagement advisory,67376.43,PwC Engagement,Operations,4200
+2024-03-12,Cyber liability insurance – Chubb,8170.68,Chubb,HR,6100
+2024-12-29,Channel partner commission – Internal Sales,5370.25,Internal Sales,IT,5600
+2024-01-28,Printer toner and paper – Office Depot,1997.71,Office Depot,Marketing,5100
+2024-04-13,Co-working space rental – Regus,5942.64,Regus,Legal,5700
+2024-06-26,HR consulting retainer – Ernst & Young,26374.89,Ernst & Young,Operations,5500
+2024-06-17,Breakroom supplies from Quill,988.69,Quill,IT,5100
+2024-08-16,Trade show booth – Meta Ads expo,13953.87,Meta Ads,Finance,5800
+2024-12-19,Trade receivable from Vertex Solutions,69249.4,Vertex Solutions,Marketing,1200
+2024-11-15,Point of sale transaction – store #6984,102624.99,Walmart,IT,4100
+2024-03-08,Cloud hosting charges – Adobe Creative Cloud,2687.9,Adobe Creative Cloud,Executive,5400
+2024-08-03,Invoice #2908 – Meridian Holdings payment pending,13649.21,Meridian Holdings,Engineering,1200
+2024-08-25,AP entry – HP Inc supplies,3507.36,HP Inc,IT,2100
+2024-08-10,Agent commission – contract #2463,14014.45,Partner Network,Legal,5600
+2024-07-12,Tax preparation – BDO engagement,13131.88,BDO,Sales,5500
+2024-08-23,Annual license – Adobe Creative Cloud enterprise plan,8729.71,Adobe Creative Cloud,Legal,5400
+2024-03-29,Annual license – Slack enterprise plan,3413.51,Slack,Sales,5400
+2024-03-16,Accounting & audit services – BDO,44812.27,BDO,Sales,5500
+2024-05-16,Dividend declaration – Q2 distribution,77891.28,Internal,HR,3100
+2024-05-08,Consulting engagement – PwC Engagement project,37159.59,PwC Engagement,Finance,4200
+2024-03-17,Natural gas utility – AT&T,1117.97,AT&T,Marketing,5300
+2024-05-18,Tax preparation – Baker McKenzie engagement,43053.33,Baker McKenzie,Sales,5500
+2024-06-02,Hotel accommodation – Hilton business trip,4410.36,Hilton,Legal,5200
+2024-08-28,Product sale to Amazon – order #8275,55022.11,Amazon,Marketing,4100
+2024-12-19,Monthly SaaS subscription – Salesforce,11841.76,Salesforce,Sales,5400
+2024-01-20,Developer tools subscription – Adobe Creative Cloud,13723.15,Adobe Creative Cloud,HR,5400
+2024-04-27,Water and sewage charges – Pacific Gas & Electric,4568.61,Pacific Gas & Electric,Legal,5300
+2024-02-02,Tax preparation – Baker McKenzie engagement,39862.18,Baker McKenzie,Marketing,5500
+2024-03-11,Storage unit rental – WeWork,21770.86,WeWork,IT,5700
+2024-08-16,Referral bonus payout – partner Sales Team,16040.12,Sales Team,Operations,5600
+2024-07-22,Telephone/VoIP charges – Comcast Business,3040.38,Comcast Business,HR,5300
+2024-02-14,D&O insurance policy – Chubb,7978.16,Chubb,Executive,6100
+2024-04-20,Parking facility lease – WeWork,19795.84,WeWork,Legal,5700
+2024-08-14,Client payment due from Acme Corp,25356.82,Acme Corp,Engineering,1200
+2024-02-13,Point of sale transaction – store #1771,1197.35,Walmart,Finance,4100
+2024-09-20,Content marketing services – Mailchimp,12623.97,Mailchimp,Executive,5800
+2024-05-23,Sales commission – Finance team Q2,9404.73,Channel Partners,Finance,5600
+2024-02-07,Natural gas utility – Pacific Gas & Electric,1435.42,Pacific Gas & Electric,Executive,5300
+2024-02-03,Uber/Lyft rides – HR travel,2788.91,United Airlines,HR,5200
+2024-10-19,Trade show booth – Meta Ads expo,2894.42,Meta Ads,Engineering,5800
+2024-11-25,Bank transfer received from Bank of America,20452.47,Bank of America,Finance,1100
+2024-10-31,Storage unit rental – CBRE Group,23221.17,CBRE Group,Sales,5700
+2024-08-16,Storage unit rental – Regus,14202.88,Regus,IT,5700
+2024-08-19,Social media advertising – HubSpot,2160.96,HubSpot,Legal,5800
+2024-12-08,Uber/Lyft rides – Sales travel,5873.35,Hertz Rental,Sales,5200
+2024-04-03,Software renewal – Jira Atlassian platform,10200.78,Jira Atlassian,Legal,5400
+2024-09-28,Monthly electricity bill – AT&T,4689.13,AT&T,Legal,5300
+2024-12-08,Desk accessories and organizers – Staples,718.25,Staples,HR,5100
+2024-04-11,Overtime compensation – Sales team,96833.38,Paychex,Sales,5900
+2024-09-19,Stationery order #5861 from Quill,324.51,Quill,Legal,5100
+2024-05-26,Product licensing revenue from Amazon,77104.42,Amazon,IT,4100
+2024-12-07,Retained earnings adjustment – FY closing,141973.95,Internal,Finance,3100
+2024-12-28,Social media advertising – LinkedIn Marketing,16245.57,LinkedIn Marketing,HR,5800
+2024-02-28,AP entry – Office Depot supplies,14473.87,Office Depot,Sales,2100
+2024-02-26,Stationery order #6525 from Amazon Business,1825.84,Amazon Business,Executive,5100
+2024-09-03,Invoice #5866 – Acme Corp payment pending,57822.22,Acme Corp,Engineering,1200
+2024-12-08,Software renewal – AWS platform,554.59,AWS,Finance,5400
+2024-02-21,Accrued tax liability – Q1,21064.56,ADP Payroll,IT,2200
+2024-09-05,Employee wages – pay period #6730,36948.99,ADP Payroll,Executive,5900
+2024-04-27,Social media advertising – Google Ads,2153.4,Google Ads,Marketing,5800
+2024-11-08,Car rental – Delta Airlines for site inspection,7198.43,Delta Airlines,Finance,5200
+2024-06-28,Net income transfer to retained earnings,158474.14,Internal,Operations,3100
+2024-07-18,Internet service – AT&T fiber plan,2764.27,AT&T,HR,5300
+2024-04-18,Bank transfer received from Citibank,42261.61,Citibank,Legal,1100
+2024-02-28,Furniture & fixtures depreciation,1792.52,Internal,Legal,6200
+2024-07-14,Performance bonus – sales rep #5841,5336.42,Sales Team,Operations,5600
+2024-10-24,Parking facility lease – WeWork,24243.34,WeWork,Executive,5700
+2024-12-01,Monthly electricity bill – AT&T,4681.62,AT&T,Sales,5300
+2024-08-29,Vehicle depreciation – fleet #5789,2004.67,Internal,Marketing,6200
+2024-12-13,HR consulting retainer – Baker McKenzie,19537.84,Baker McKenzie,Executive,5500
+2024-09-20,Car rental – Marriott Hotels for site inspection,3711.56,Marriott Hotels,Finance,5200
+2024-11-01,Software renewal – Salesforce platform,277.32,Salesforce,Executive,5400
+2024-12-14,Net income transfer to retained earnings,77395.18,Internal,Marketing,3100
+2024-06-01,Hotel accommodation – Hertz Rental business trip,4192.69,Hertz Rental,Finance,5200
+2024-03-16,Storage unit rental – JLL,16384.2,JLL,Finance,5700
+2024-09-17,Trade receivable from GlobalTech,64416.44,GlobalTech,Finance,1200
+2024-10-04,Stock replenishment order #4525,32560.73,Grainger,Finance,1300
+2024-04-28,Warehouse lease payment – Regus,10821.76,Regus,HR,5700
+2024-08-04,Car rental – Delta Airlines for site inspection,6603.87,Delta Airlines,Operations,5200
+2024-02-13,External audit fee – Grant Thornton FY review,40862.92,Grant Thornton,Executive,5500
+2024-08-01,HR consulting retainer – Ernst & Young,16570.42,Ernst & Young,Engineering,5500
+2024-06-26,Furniture & fixtures depreciation,1567.84,Internal,Sales,6200
+2024-04-18,Sales commission – IT team Q2,808.69,Sales Team,IT,5600
+2024-06-09,Office supplies purchase from Office Depot,1034.89,Office Depot,IT,5100
+2024-04-09,Print media advertisement – Meta Ads,17991.71,Meta Ads,IT,5800
+2024-07-07,Product sale to Costco – order #1053,116968.1,Costco,Sales,4100
+2024-06-23,Trade receivable from Acme Corp,22476.41,Acme Corp,Sales,1200
+2024-01-13,Content marketing services – Google Ads,4238.29,Google Ads,Marketing,5800
+2024-09-04,Workers compensation insurance – Allianz,9857.65,Allianz,Engineering,6100
+2024-04-01,Uber/Lyft rides – Operations travel,5844.65,Hertz Rental,Operations,5200
+2024-05-16,Accrued interest on credit facility,14419.05,Tax Authority,Executive,2200
+2024-08-03,Parking facility lease – Brookfield Properties,2037.04,Brookfield Properties,Operations,5700
+2024-12-17,Bulk materials procurement from Grainger,23938.57,Grainger,Marketing,1300
+2024-11-16,Channel partner commission – Sales Team,16172.19,Sales Team,HR,5600
+2024-11-16,Monthly office rent – WeWork building,9273.8,WeWork,HR,5700
+2024-06-18,Monthly office rent – WeWork building,8932.42,WeWork,Engineering,5700
+2024-01-05,Furniture & fixtures depreciation,5739.24,Internal,Finance,6200
+2024-04-04,Cloud hosting charges – Google Workspace,7891.91,Google Workspace,Executive,5400
+2024-10-04,Monthly electricity bill – Comcast Business,3415.29,Comcast Business,Marketing,5300
+2024-08-20,Trade show booth – Trade Show Inc expo,6296.83,Trade Show Inc,IT,5800
+2024-07-07,Implementation services – project #3312,56363.04,McKinsey,Legal,4200
+2024-05-11,Performance bonus – sales rep #6058,17623.75,Channel Partners,HR,5600
+2024-09-14,Agent commission – contract #1863,7872.69,Internal Sales,Marketing,5600
+2024-09-11,Annual license – Microsoft 365 enterprise plan,12514.17,Microsoft 365,Legal,5400
+2024-03-05,Monthly payroll – Finance department,71232.0,Internal HR,Finance,5900
+2024-09-10,General liability insurance premium – Allianz,12779.11,Allianz,Operations,6100
+2024-07-14,Office supplies purchase from Office Depot,1261.6,Office Depot,Sales,5100
+2024-06-03,Overtime compensation – Marketing team,19257.29,Paychex,Marketing,5900
+2024-03-21,Desk accessories and organizers – Quill,998.27,Quill,Finance,5100
+2024-10-31,Google Ads campaign – Engineering budget Q3,4314.63,HubSpot,Engineering,5800
+2024-06-25,Printer toner and paper – Office Depot,536.32,Office Depot,Legal,5100
+2024-06-04,Car rental – Hilton for site inspection,1639.32,Hilton,Executive,5200
+2024-10-21,Print media advertisement – Google Ads,6657.59,Google Ads,HR,5800
+2024-09-18,Print media advertisement – LinkedIn Marketing,18614.34,LinkedIn Marketing,Legal,5800
+2024-11-13,Warehouse receipt – Grainger delivery,35830.15,Grainger,Legal,1300
+2024-03-18,Leasehold improvements amortization,9309.56,Internal,Executive,6200
+2024-12-10,Cloud hosting charges – Jira Atlassian,5975.05,Jira Atlassian,Sales,5400
+2024-05-23,Email campaign platform – Meta Ads,12477.59,Meta Ads,Marketing,5800
+2024-09-19,Bi-weekly salary disbursement – Executive,34744.99,ADP Payroll,Executive,5900
+2024-10-28,Accrued tax liability – Q1,14009.37,ADP Payroll,HR,2200
+2024-10-17,Customer balance – Acme Corp Q3 billing,25151.05,Acme Corp,Engineering,1200
+2024-08-21,Trade show booth – LinkedIn Marketing expo,8051.65,LinkedIn Marketing,Legal,5800
+2024-04-01,Water and sewage charges – Comcast Business,4963.23,Comcast Business,Engineering,5300
+2024-05-06,Cash deposit at branch office,22650.57,Chase Bank,Legal,1100
+2024-04-21,Wholesale product shipment to Costco,119583.86,Costco,Finance,4100
+2024-06-11,Monthly electricity bill – Comcast Business,2301.34,Comcast Business,Finance,5300
+2024-09-14,Annual license – Salesforce enterprise plan,13593.73,Salesforce,Executive,5400
+2024-05-25,Parking facility lease – Brookfield Properties,7723.62,Brookfield Properties,Finance,5700
+2024-08-21,Agent commission – contract #2601,3599.76,Internal Sales,Engineering,5600
+2024-10-16,Net income transfer to retained earnings,57509.15,Internal,Legal,3100
+2024-09-05,Contractor payment – Paychex,81045.35,Paychex,IT,5900
+2024-06-07,Warehouse lease payment – Brookfield Properties,18703.48,Brookfield Properties,HR,5700
+2024-02-17,Co-working space rental – Brookfield Properties,7826.7,Brookfield Properties,Sales,5700
+2024-04-21,Email campaign platform – Mailchimp,16882.91,Mailchimp,IT,5800
+2024-10-18,Employee wages – pay period #3298,82014.31,Paychex,Sales,5900
+2024-09-28,Implementation services – project #5135,52953.11,Deloitte,Operations,4200
+2024-07-02,Property insurance renewal – Hartford,5721.84,Hartford,IT,6100
+2024-04-06,Cyber liability insurance – State Farm,4601.41,State Farm,Operations,6100
+2024-10-31,Wholesale product shipment to Target,64327.73,Target,Engineering,4100
+2024-05-26,Flight booking – IT team to conference,5758.28,Delta Airlines,IT,5200
+2024-11-27,Annual license – Salesforce enterprise plan,12070.42,Salesforce,Sales,5400
+2024-10-16,Office supplies purchase from Quill,1330.9,Quill,Engineering,5100
+2024-05-15,Warehouse lease payment – CBRE Group,19936.03,CBRE Group,Engineering,5700
+2024-05-25,Monthly payroll – IT department,51662.16,ADP Payroll,IT,5900
+2024-11-25,Wholesale product shipment to Amazon,95663.59,Amazon,HR,4100
+2024-11-08,Monthly office rent – Brookfield Properties building,10377.66,Brookfield Properties,Engineering,5700
+2024-04-04,Monthly retainer – Deloitte advisory,17723.52,Deloitte,Sales,4200
+2024-11-18,Property insurance renewal – Allianz,13050.33,Allianz,IT,6100
+2024-03-21,Car rental – Marriott Hotels for site inspection,1513.38,Marriott Hotels,Engineering,5200
+2024-11-17,ATM withdrawal for operations,15466.4,Bank of America,Engineering,1100
+2024-05-18,HR consulting retainer – BDO,10014.86,BDO,Marketing,5500
+2024-09-26,Desk accessories and organizers – Amazon Business,1562.22,Amazon Business,Engineering,5100
+2024-10-15,Warehouse lease payment – CBRE Group,23631.78,CBRE Group,IT,5700
+2024-04-23,Dividend declaration – Q3 distribution,14517.26,Internal,Sales,3100
+2024-07-02,Monthly payroll – HR department,15216.74,Paychex,HR,5900
+2024-05-25,Google Ads campaign – HR budget Q2,889.56,Trade Show Inc,HR,5800
+2024-03-29,Dividend declaration – Q4 distribution,171923.53,Internal,Executive,3100
+2024-05-25,Bi-weekly salary disbursement – Engineering,66722.97,ADP Payroll,Engineering,5900
+2024-05-26,Agent commission – contract #6291,14719.73,Sales Team,Finance,5600
+2024-05-11,Accounting & audit services – Grant Thornton,45225.7,Grant Thornton,Marketing,5500
+2024-05-14,Cyber liability insurance – AIG,7309.65,AIG,Marketing,6100
+2024-03-14,Agent commission – contract #3193,14114.86,Channel Partners,IT,5600
+2024-12-01,Internet service – Pacific Gas & Electric fiber plan,774.59,Pacific Gas & Electric,Marketing,5300
+2024-08-11,Monthly SaaS subscription – Slack,6214.3,Slack,Operations,5400
+2024-12-04,Per diem expenses – client visit United Airlines,7426.48,United Airlines,Sales,5200
+2024-12-27,Accrued tax liability – Q4,29217.15,Tax Authority,Finance,2200
+2024-11-08,Product licensing revenue from Target,104683.68,Target,Legal,4100
+2024-06-16,Product licensing revenue from Walmart,114771.67,Walmart,Marketing,4100
+2024-05-26,Internet service – AT&T fiber plan,583.42,AT&T,Marketing,5300
+2024-11-08,Accounting & audit services – KPMG,3703.74,KPMG,Legal,5500
+2024-07-10,Accounting & audit services – Ernst & Young,25606.87,Ernst & Young,Executive,5500
+2024-11-25,Bulk materials procurement from MaterialWorld,19329.04,MaterialWorld,Legal,1300
+2024-09-03,Influencer partnership – Google Ads,14426.37,Google Ads,HR,5800
+2024-06-18,Depreciation – computer hardware Q1,7581.87,Internal,Marketing,6200
+2024-03-31,Storage unit rental – Brookfield Properties,16775.88,Brookfield Properties,IT,5700
+2024-11-24,Legal consultation fee – Ernst & Young,18226.2,Ernst & Young,IT,5500
+2024-03-24,Overtime compensation – Sales team,106769.98,Paychex,Sales,5900
+2024-05-04,Monthly retainer – PwC Engagement advisory,75262.23,PwC Engagement,Legal,4200
+2024-02-16,D&O insurance policy – State Farm,3661.64,State Farm,Engineering,6100
+2024-02-27,Print media advertisement – Mailchimp,9876.77,Mailchimp,Executive,5800
+2024-11-01,Flight booking – Marketing team to conference,4239.08,United Airlines,Marketing,5200
+2024-02-06,Prior period adjustment – retained earnings,123261.21,Internal,Legal,3100
+2024-04-02,Tax preparation – KPMG engagement,46121.2,KPMG,Legal,5500
+2024-05-14,Accrued wages payable – Sales department,11789.08,Internal,Sales,2200
+2024-11-19,Software renewal – Adobe Creative Cloud platform,11246.51,Adobe Creative Cloud,Finance,5400
+2024-01-01,Accounting & audit services – BDO,11479.86,BDO,Executive,5500
+2024-10-01,Tax preparation – KPMG engagement,41430.14,KPMG,Engineering,5500
+2024-11-22,Travel reimbursement – employee #5262,6317.94,United Airlines,Operations,5200
+2024-12-10,Developer tools subscription – Salesforce,12534.27,Salesforce,HR,5400
+2024-08-02,Cyber liability insurance – AIG,4831.75,AIG,Marketing,6100
+2024-12-08,Developer tools subscription – Adobe Creative Cloud,11504.6,Adobe Creative Cloud,Finance,5400
+2024-06-18,Warehouse lease payment – Regus,7895.7,Regus,IT,5700
+2024-09-02,Vendor invoice from Office Depot – due net 30,15871.37,Office Depot,Operations,2100
+2024-01-23,Leasehold improvements amortization,1323.41,Internal,Executive,6200
+2024-11-19,Bulk materials procurement from McMaster-Carr,53585.65,McMaster-Carr,HR,1300
+2024-03-28,D&O insurance policy – Chubb,12181.07,Chubb,Engineering,6100
+2024-01-02,Social media advertising – Google Ads,18305.52,Google Ads,Operations,5800
+2024-12-01,Wholesale product shipment to Walmart,142170.91,Walmart,Marketing,4100
+2024-01-20,Telephone/VoIP charges – AT&T,3058.24,AT&T,Executive,5300
+2024-05-11,Accounting & audit services – Grant Thornton,37705.73,Grant Thornton,IT,5500
+2024-05-11,Bi-weekly salary disbursement – Marketing,74793.95,ADP Payroll,Marketing,5900
+2024-08-16,Water and sewage charges – Pacific Gas & Electric,1929.87,Pacific Gas & Electric,Marketing,5300
+2024-10-07,Cyber liability insurance – State Farm,11338.44,State Farm,Engineering,6100
+2024-02-22,Co-working space rental – JLL,28018.93,JLL,Engineering,5700
+2024-07-29,Channel partner commission – Channel Partners,21643.79,Channel Partners,Operations,5600
+2024-07-23,Telephone/VoIP charges – ConEdison,1057.06,ConEdison,HR,5300
+2024-11-14,Google Ads campaign – Sales budget Q1,2604.69,Meta Ads,Sales,5800
+2024-09-30,Service contract revenue – Deloitte,63994.88,Deloitte,HR,4200
+2024-06-09,HR consulting retainer – Grant Thornton,45062.95,Grant Thornton,Executive,5500
+2024-08-31,Referral bonus payout – partner Sales Team,5047.74,Sales Team,Marketing,5600
+2024-10-26,Depreciation – computer hardware Q2,1585.71,Internal,Executive,6200
+2024-10-04,Storage unit rental – CBRE Group,17702.07,CBRE Group,Operations,5700
+2024-02-08,Online sales revenue – batch #8075,58605.91,Best Buy,Marketing,4100
+2024-01-19,Retained earnings adjustment – FY closing,158753.2,Internal,Finance,3100
+2024-01-02,AP entry – Dell Technologies supplies,30340.93,Dell Technologies,IT,2100
+2024-01-07,Telephone/VoIP charges – AT&T,3725.27,AT&T,Operations,5300
+2024-11-12,Monthly retainer – Boston Consulting advisory,76927.89,Boston Consulting,Sales,4200
+2024-06-16,Online sales revenue – batch #5441,36643.08,Best Buy,Executive,4100
+2024-05-02,Professional services rendered to Deloitte,27905.06,Deloitte,Engineering,4200
+2024-03-22,Internet service – Comcast Business fiber plan,2217.93,Comcast Business,Operations,5300
+2024-02-22,Accounting & audit services – Ernst & Young,42929.89,Ernst & Young,Executive,5500
+2024-07-15,D&O insurance policy – Allianz,675.31,Allianz,HR,6100
+2024-03-07,Wholesale product shipment to Home Depot,80634.37,Home Depot,Sales,4100
+2024-05-07,Flight booking – HR team to conference,2318.88,Marriott Hotels,HR,5200
+2024-05-01,Google Ads campaign – Engineering budget Q4,3111.32,Meta Ads,Engineering,5800
+2024-04-01,Referral bonus payout – partner Internal Sales,19367.16,Internal Sales,Finance,5600
+2024-12-19,General liability insurance premium – Chubb,11059.66,Chubb,Engineering,6100
+2024-09-28,Accrued interest on credit facility,13627.83,ADP Payroll,IT,2200
+2024-08-26,Bank transfer received from PNC Financial,21519.85,PNC Financial,Engineering,1100
+2024-06-07,Employee wages – pay period #3076,84311.3,ADP Payroll,Executive,5900
+2024-08-20,Monthly retainer – Boston Consulting advisory,24243.23,Boston Consulting,HR,4200
+2024-02-10,Stationery order #9676 from Quill,857.05,Quill,Executive,5100
+2024-07-08,Performance bonus – sales rep #1738,12175.83,Sales Team,Engineering,5600
+2024-06-30,Dividend declaration – Q4 distribution,74773.49,Internal,HR,3100
+2024-01-04,Monthly retainer – Deloitte advisory,94118.09,Deloitte,Operations,4200
+2024-10-29,Trade show booth – HubSpot expo,19800.83,HubSpot,Operations,5800
+2024-09-19,Leasehold improvements amortization,751.0,Internal,Executive,6200
+2024-12-26,Workers compensation insurance – AIG,3790.44,AIG,Engineering,6100
+2024-06-23,Contractor payment – ADP Payroll,76487.48,ADP Payroll,Sales,5900
+2024-04-29,Bi-weekly salary disbursement – Marketing,67145.9,Internal HR,Marketing,5900
+2024-04-22,Bi-weekly salary disbursement – HR,90929.87,Gusto,HR,5900
+2024-05-09,Tax preparation – Grant Thornton engagement,6046.31,Grant Thornton,IT,5500
+2024-01-16,Performance bonus – sales rep #9915,24377.42,Sales Team,IT,5600
+2024-01-02,HR consulting retainer – KPMG,43873.15,KPMG,IT,5500
+2024-03-31,Leasehold improvements amortization,3455.31,Internal,Engineering,6200
+2024-06-25,Hotel accommodation – Delta Airlines business trip,5378.87,Delta Airlines,Finance,5200
+2024-09-23,Software renewal – Salesforce platform,12335.5,Salesforce,Operations,5400
+2024-01-29,Prior period adjustment – retained earnings,171030.42,Internal,IT,3100
+2024-07-10,Overtime compensation – Operations team,119420.08,Paychex,Operations,5900
+2024-01-24,Monthly office rent – Regus building,25629.04,Regus,Operations,5700
+2024-02-19,Retained earnings adjustment – FY closing,119711.27,Internal,HR,3100
+2024-12-11,Vendor invoice from HP Inc – due net 30,18850.68,HP Inc,HR,2100
+2024-07-03,Bulk materials procurement from McMaster-Carr,17402.25,McMaster-Carr,Sales,1300
+2024-08-16,Monthly electricity bill – Comcast Business,2426.02,Comcast Business,Marketing,5300
+2024-07-30,Developer tools subscription – Slack,11085.36,Slack,Operations,5400
+2024-06-09,Overtime compensation – Legal team,27153.71,Paychex,Legal,5900
+2024-12-02,Cloud hosting charges – Google Workspace,171.13,Google Workspace,Finance,5400
+2024-08-24,Social media advertising – Meta Ads,742.42,Meta Ads,Legal,5800
+2024-02-19,Stock replenishment order #4053,10872.13,Fastenal,Finance,1300
+2024-10-28,Accounting & audit services – Grant Thornton,27726.85,Grant Thornton,Engineering,5500
+2024-05-15,Stock replenishment order #6484,22640.79,Fastenal,Sales,1300
+2024-02-22,Customer balance – Acme Corp Q2 billing,41085.7,Acme Corp,Legal,1200
+2024-05-29,Monthly depreciation – office equipment,666.76,Internal,HR,6200
+2024-03-24,Monthly payroll – Engineering department,115641.69,Paychex,Engineering,5900
+2024-06-08,Bulk materials procurement from McMaster-Carr,56037.7,McMaster-Carr,Engineering,1300
+2024-05-18,Telephone/VoIP charges – AT&T,1000.34,AT&T,Finance,5300
+2024-10-23,Online sales revenue – batch #4675,111282.18,Amazon,IT,4100
+2024-03-30,Desk accessories and organizers – W.B. Mason,2002.34,W.B. Mason,Operations,5100
+2024-05-21,Retained earnings adjustment – FY closing,149003.68,Internal,Operations,3100
+2024-02-05,D&O insurance policy – AIG,11324.3,AIG,Engineering,6100
+2024-09-24,Per diem expenses – client visit United Airlines,5558.47,United Airlines,Sales,5200
+2024-09-08,Legal consultation fee – Grant Thornton,42185.91,Grant Thornton,IT,5500
+2024-04-15,Wire transfer deposit – Bank of America,8747.26,Bank of America,Executive,1100
+2024-10-20,Depreciation – computer hardware Q4,3763.12,Internal,HR,6200
+2024-12-02,Stationery order #6614 from W.B. Mason,1349.01,W.B. Mason,IT,5100
+2024-12-09,Invoice #2864 – Pinnacle Industries payment pending,72850.4,Pinnacle Industries,Engineering,1200
+2024-09-08,Water and sewage charges – ConEdison,2918.63,ConEdison,Engineering,5300
+2024-04-25,Telephone/VoIP charges – ConEdison,2140.14,ConEdison,HR,5300
+2024-09-06,ATM withdrawal for operations,39490.43,PNC Financial,Finance,1100
+2024-02-16,Customer balance – Pinnacle Industries Q4 billing,64027.48,Pinnacle Industries,Sales,1200
+2024-02-07,Cloud hosting charges – Jira Atlassian,14847.77,Jira Atlassian,IT,5400
+2024-10-30,Trade show booth – Meta Ads expo,19115.66,Meta Ads,Legal,5800
+2024-05-06,Natural gas utility – AT&T,1968.94,AT&T,Executive,5300
+2024-11-12,Vehicle depreciation – fleet #1999,576.06,Internal,Operations,6200
+2024-08-22,Revenue from Walmart – bulk purchase,26851.23,Walmart,Sales,4100
+2024-04-30,Product licensing revenue from Home Depot,43077.84,Home Depot,Sales,4100
+2024-02-08,AP entry – Staples supplies,19480.61,Staples,IT,2100
+2024-11-18,Online sales revenue – batch #9852,116172.86,Home Depot,IT,4100
+2024-01-01,Google Ads campaign – IT budget Q4,8003.81,Meta Ads,IT,5800
+2024-10-17,Software renewal – Google Workspace platform,2381.3,Google Workspace,Sales,5400
+2024-04-03,Parking facility lease – JLL,2069.3,JLL,Marketing,5700
+2024-05-09,Leasehold improvements amortization,9549.52,Internal,Engineering,6200
+2024-01-18,Desk accessories and organizers – Office Depot,2080.46,Office Depot,Engineering,5100
+2024-02-23,Hotel accommodation – Hertz Rental business trip,1797.22,Hertz Rental,Engineering,5200
+2024-01-28,Software renewal – Slack platform,13394.4,Slack,Executive,5400
+2024-11-21,Monthly retainer – Deloitte advisory,80650.88,Deloitte,IT,4200
+2024-05-23,ATM withdrawal for operations,48820.36,Chase Bank,Operations,1100
+2024-12-18,Leasehold improvements amortization,3148.15,Internal,Legal,6200
+2024-09-13,Annual license – Slack enterprise plan,9254.24,Slack,Finance,5400
+2024-03-19,Property insurance renewal – State Farm,8199.13,State Farm,Operations,6100
+2024-11-12,Overtime compensation – HR team,61255.01,Gusto,HR,5900
+2024-06-30,Product sale to Walmart – order #9716,80965.63,Walmart,IT,4100
+2024-10-16,Product licensing revenue from Target,16707.78,Target,IT,4100
+2024-03-13,Email campaign platform – Mailchimp,11112.63,Mailchimp,Legal,5800
+2024-09-07,Cyber liability insurance – State Farm,4855.25,State Farm,Marketing,6100
+2024-04-13,Google Ads campaign – Sales budget Q2,6857.98,Google Ads,Sales,5800
+2024-02-04,Vehicle depreciation – fleet #1974,8852.73,Internal,Sales,6200
+2024-01-25,Content marketing services – Trade Show Inc,10357.16,Trade Show Inc,Operations,5800
+2024-05-18,Monthly depreciation – office equipment,2529.01,Internal,HR,6200
+2024-04-27,Monthly electricity bill – AT&T,613.02,AT&T,Finance,5300
+2024-04-12,Monthly depreciation – office equipment,5641.15,Internal,Operations,6200
+2024-10-23,Bi-weekly salary disbursement – IT,35582.56,ADP Payroll,IT,5900
+2024-05-10,External audit fee – Grant Thornton FY review,34087.42,Grant Thornton,Executive,5500
+2024-10-17,Legal consultation fee – BDO,19073.19,BDO,Executive,5500
+2024-07-20,Accounting & audit services – BDO,13848.03,BDO,Marketing,5500
+2024-03-14,Parking facility lease – Regus,26952.39,Regus,HR,5700
+2024-03-13,Vendor invoice from HP Inc – due net 30,31174.31,HP Inc,Legal,2100
+2024-03-28,Accrued bonus provision – Executive,3827.65,Internal,Executive,2200
+2024-04-21,Software renewal – Microsoft 365 platform,7606.41,Microsoft 365,Executive,5400
+2024-03-13,Bi-weekly salary disbursement – Operations,30639.87,ADP Payroll,Operations,5900
+2024-08-15,Product sale to Walmart – order #1447,83362.18,Walmart,HR,4100
+2024-04-16,Accounting & audit services – Ernst & Young,22181.95,Ernst & Young,IT,5500
+2024-05-25,Performance bonus – sales rep #6223,4032.56,Sales Team,Sales,5600
+2024-06-22,Vehicle depreciation – fleet #2272,4374.05,Internal,IT,6200
+2024-05-09,Uber/Lyft rides – Operations travel,4039.18,Hilton,Operations,5200
+2024-02-28,Monthly payroll – Operations department,111570.77,Paychex,Operations,5900
+2024-07-13,Water and sewage charges – Pacific Gas & Electric,2354.32,Pacific Gas & Electric,IT,5300
+2024-09-24,Outstanding payable to Staples,3216.67,Staples,Sales,2100
+2024-12-20,Uber/Lyft rides – Finance travel,5924.07,Marriott Hotels,Finance,5200
+2024-03-09,Monthly office rent – Regus building,21360.98,Regus,Operations,5700
+2024-07-06,Inventory purchase – raw materials from Grainger,7187.2,Grainger,IT,1300
+2024-02-09,Cyber liability insurance – State Farm,3337.83,State Farm,Executive,6100
+2024-09-16,Property insurance renewal – Chubb,8528.13,Chubb,Marketing,6100
+2024-10-03,Monthly depreciation – office equipment,2163.77,Internal,Operations,6200
+2024-03-21,Monthly office rent – CBRE Group building,5459.32,CBRE Group,IT,5700
+2024-07-02,Product sale to Best Buy – order #3261,83682.3,Best Buy,IT,4100
+2024-04-07,Accounting & audit services – Ernst & Young,32548.86,Ernst & Young,Sales,5500
+2024-04-05,Parking facility lease – WeWork,21420.45,WeWork,Finance,5700
+2024-10-22,Agent commission – contract #6736,21606.84,Partner Network,Engineering,5600
+2024-03-11,Furniture & fixtures depreciation,8095.01,Internal,Legal,6200
+2024-06-12,Telephone/VoIP charges – Comcast Business,3234.8,Comcast Business,IT,5300
+2024-02-18,Online sales revenue – batch #6780,60731.02,Target,Marketing,4100
+2024-09-21,Overtime compensation – Marketing team,55017.77,Paychex,Marketing,5900
+2024-08-17,Cyber liability insurance – AIG,10440.65,AIG,Marketing,6100
+2024-05-12,Accounting & audit services – KPMG,19823.74,KPMG,Marketing,5500
+2024-02-09,Influencer partnership – Mailchimp,3513.85,Mailchimp,Executive,5800
+2024-04-30,Sales commission – Finance team Q2,1457.66,Partner Network,Finance,5600
+2024-06-02,Water and sewage charges – Comcast Business,3183.53,Comcast Business,Operations,5300
+2024-02-09,Stationery order #7329 from Staples,418.63,Staples,IT,5100
+2024-12-16,External audit fee – BDO FY review,2441.84,BDO,Sales,5500
+2024-02-23,Software renewal – AWS platform,7837.18,AWS,IT,5400
+2024-07-28,HR consulting retainer – KPMG,35612.47,KPMG,IT,5500
+2024-01-21,Legal consultation fee – Baker McKenzie,10822.09,Baker McKenzie,Sales,5500
+2024-03-08,Internet service – ConEdison fiber plan,2530.95,ConEdison,HR,5300
+2024-03-21,Employee wages – pay period #9485,72410.9,Internal HR,Legal,5900
+2024-11-20,Product licensing revenue from Best Buy,27995.17,Best Buy,Engineering,4100
+2024-09-10,Parking facility lease – JLL,12264.18,JLL,HR,5700
+2024-11-20,Internet service – ConEdison fiber plan,2720.74,ConEdison,Engineering,5300
+2024-02-05,Monthly office rent – Brookfield Properties building,12043.36,Brookfield Properties,Engineering,5700
+2024-10-27,Net income transfer to retained earnings,181371.86,Internal,Executive,3100
+2024-04-01,Professional services rendered to McKinsey,42843.67,McKinsey,Sales,4200
+2024-06-22,Service contract revenue – Boston Consulting,93630.03,Boston Consulting,Engineering,4200
+2024-12-19,Bi-weekly salary disbursement – Sales,53258.4,Paychex,Sales,5900
+2024-10-31,Net income transfer to retained earnings,182607.63,Internal,Legal,3100
+2024-07-07,Cash deposit at branch office,34083.76,Citibank,Executive,1100
+2024-10-19,Legal consultation fee – KPMG,32643.34,KPMG,IT,5500
+2024-06-25,Monthly depreciation – office equipment,6689.79,Internal,HR,6200
+2024-07-10,Monthly electricity bill – Verizon,1162.78,Verizon,Operations,5300
+2024-05-08,Tax preparation – Baker McKenzie engagement,8892.43,Baker McKenzie,HR,5500
+2024-12-26,Travel reimbursement – employee #4624,1683.01,Hertz Rental,Finance,5200
+2024-08-04,Developer tools subscription – Microsoft 365,3760.36,Microsoft 365,Legal,5400
+2024-11-05,Stock replenishment order #8176,35077.54,MaterialWorld,IT,1300
+2024-01-13,Storage unit rental – Regus,23878.93,Regus,Marketing,5700
+2024-12-07,Cloud hosting charges – AWS,12476.6,AWS,Finance,5400
+2024-05-31,Tax preparation – Ernst & Young engagement,19161.55,Ernst & Young,Legal,5500
+2024-01-13,Internet service – ConEdison fiber plan,1119.3,ConEdison,Engineering,5300
+2024-12-20,Professional services rendered to Bain & Co,23608.59,Bain & Co,IT,4200
+2024-01-27,Accrued bonus provision – IT,24981.84,Tax Authority,IT,2200
+2024-05-17,Referral bonus payout – partner Channel Partners,9759.36,Channel Partners,IT,5600
+2024-07-31,Cloud hosting charges – AWS,11142.83,AWS,Executive,5400
+2024-10-21,Co-working space rental – WeWork,9874.1,WeWork,Sales,5700
+2024-05-31,Hotel accommodation – Marriott Hotels business trip,7870.05,Marriott Hotels,Marketing,5200
+2024-01-09,Breakroom supplies from Office Depot,1729.85,Office Depot,Finance,5100
+2024-06-23,Furniture & fixtures depreciation,5347.65,Internal,IT,6200
+2024-09-19,Water and sewage charges – ConEdison,346.6,ConEdison,Finance,5300
+2024-05-12,Storage unit rental – JLL,8130.13,JLL,Marketing,5700
+2024-09-29,Property insurance renewal – AIG,13112.94,AIG,Operations,6100
+2024-03-06,Tax preparation – Ernst & Young engagement,39652.68,Ernst & Young,Operations,5500
+2024-10-24,Supplier bill #7615 – Sysco Corp,39638.71,Sysco Corp,Finance,2100
+2024-11-13,Parking facility lease – WeWork,12146.97,WeWork,IT,5700
+2024-08-20,Accounting & audit services – Baker McKenzie,43871.08,Baker McKenzie,HR,5500
+2024-04-24,Water and sewage charges – Pacific Gas & Electric,395.1,Pacific Gas & Electric,Engineering,5300
+2024-09-28,Accrued wages payable – Executive department,5366.62,Internal,Executive,2200
+2024-10-12,Google Ads campaign – Executive budget Q2,10771.46,HubSpot,Executive,5800
+2024-01-05,Stock replenishment order #8520,11456.99,SupplyChain Pro,Engineering,1300
+2024-12-24,Printer toner and paper – W.B. Mason,390.46,W.B. Mason,Sales,5100
+2024-10-31,Cyber liability insurance – Allianz,14146.93,Allianz,Executive,6100
+2024-02-23,Monthly SaaS subscription – Google Workspace,4842.72,Google Workspace,Engineering,5400
+2024-02-07,Vendor invoice from Staples – due net 30,20876.18,Staples,Executive,2100
+2024-06-13,Accrued wages payable – Legal department,29756.18,Benefits Provider,Legal,2200
+2024-12-24,Sales commission – Marketing team Q2,3807.34,Channel Partners,Marketing,5600
+2024-03-12,Depreciation – computer hardware Q1,852.49,Internal,Marketing,6200
+2024-03-16,Furniture & fixtures depreciation,7207.45,Internal,Sales,6200
+2024-05-12,Property insurance renewal – Hartford,12933.5,Hartford,IT,6100
+2024-12-18,Monthly office rent – WeWork building,24359.48,WeWork,Marketing,5700
+2024-06-14,Telephone/VoIP charges – Pacific Gas & Electric,1200.78,Pacific Gas & Electric,Finance,5300
+2024-09-23,Accrued bonus provision – IT,22862.27,Tax Authority,IT,2200
+2024-01-18,Software renewal – Slack platform,14494.42,Slack,Sales,5400
+2024-10-21,Developer tools subscription – Slack,1220.13,Slack,Operations,5400
+2024-06-05,Stationery order #1821 from Office Depot,1715.54,Office Depot,Executive,5100
+2024-07-22,Office supplies purchase from Quill,1006.78,Quill,Sales,5100
+2024-07-28,Monthly electricity bill – AT&T,2442.75,AT&T,Operations,5300
+2024-11-11,Flight booking – Sales team to conference,1664.24,Delta Airlines,Sales,5200
+2024-03-18,Overtime compensation – Engineering team,23673.54,Gusto,Engineering,5900
+2024-02-18,Desk accessories and organizers – Quill,59.08,Quill,Sales,5100
+2024-07-29,Sales commission – Sales team Q1,5263.62,Partner Network,Sales,5600
+2024-11-07,Car rental – United Airlines for site inspection,4615.46,United Airlines,Executive,5200
+2024-05-15,Bi-weekly salary disbursement – Sales,15508.79,Paychex,Sales,5900
+2024-06-06,Outstanding payable to Staples,26253.92,Staples,Finance,2100
+2024-05-20,Office supplies purchase from Amazon Business,229.82,Amazon Business,IT,5100
+2024-01-24,Agent commission – contract #4562,23019.52,Channel Partners,IT,5600
+2024-07-29,Accrued wages payable – Sales department,14392.03,ADP Payroll,Sales,2200
+2024-02-12,Channel partner commission – Channel Partners,1514.49,Channel Partners,Finance,5600
+2024-07-26,Monthly depreciation – office equipment,2693.07,Internal,Executive,6200
+2024-01-01,Contractor payment – Internal HR,9334.26,Internal HR,Marketing,5900
+2024-02-21,Monthly depreciation – office equipment,1624.8,Internal,Marketing,6200
+2024-02-23,Telephone/VoIP charges – Verizon,1721.09,Verizon,Operations,5300
+2024-11-01,Car rental – Hilton for site inspection,3896.41,Hilton,Operations,5200
+2024-02-23,Property insurance renewal – State Farm,4417.1,State Farm,Legal,6100
+2024-12-02,Product licensing revenue from Target,104427.13,Target,Operations,4100
+2024-10-02,Tax preparation – KPMG engagement,25329.36,KPMG,Finance,5500
+2024-01-14,Monthly retainer – PwC Engagement advisory,13100.19,PwC Engagement,Executive,4200
+2024-03-10,Revenue from Walmart – bulk purchase,102461.47,Walmart,Engineering,4100
+2024-11-07,Annual license – AWS enterprise plan,3292.89,AWS,IT,5400
+2024-09-23,Outstanding payable to Office Depot,4282.67,Office Depot,Operations,2100
+2024-12-20,Employee wages – pay period #3990,92872.15,Gusto,Operations,5900
+2024-11-10,General liability insurance premium – Allianz,2426.53,Allianz,Finance,6100
+2024-11-13,Telephone/VoIP charges – Verizon,3243.15,Verizon,Engineering,5300
+2024-02-09,Legal consultation fee – Grant Thornton,40624.49,Grant Thornton,IT,5500
+2024-02-23,Agent commission – contract #3765,3475.43,Sales Team,IT,5600
+2024-12-02,Inventory purchase – raw materials from MaterialWorld,19410.43,MaterialWorld,Marketing,1300
+2024-06-01,Desk accessories and organizers – Amazon Business,530.06,Amazon Business,Legal,5100
+2024-09-23,Telephone/VoIP charges – Verizon,1073.39,Verizon,Finance,5300
+2024-03-23,Monthly electricity bill – Pacific Gas & Electric,3342.71,Pacific Gas & Electric,HR,5300
+2024-01-14,Agent commission – contract #9844,23859.37,Internal Sales,IT,5600
+2024-10-11,Sales commission – Executive team Q1,20970.9,Partner Network,Executive,5600
+2024-04-30,Overtime compensation – Operations team,62542.13,Paychex,Operations,5900
+2024-08-28,Per diem expenses – client visit Hilton,365.09,Hilton,Finance,5200
+2024-08-07,Printer toner and paper – Quill,320.49,Quill,Marketing,5100
+2024-08-18,Wholesale product shipment to Best Buy,149368.49,Best Buy,Engineering,4100
+2024-03-20,Prior period adjustment – retained earnings,199856.56,Internal,Marketing,3100
+2024-07-05,Printer toner and paper – Quill,2465.92,Quill,Legal,5100
+2024-11-14,Office supplies purchase from Amazon Business,417.25,Amazon Business,Engineering,5100
+2024-10-07,Supplier bill #5804 – HP Inc,19164.63,HP Inc,Executive,2100
+2024-11-19,Point of sale transaction – store #6854,68639.39,Costco,Operations,4100
+2024-07-25,Google Ads campaign – Sales budget Q4,6680.46,Trade Show Inc,Sales,5800
+2024-08-17,Social media advertising – Trade Show Inc,6864.1,Trade Show Inc,Executive,5800
+2024-11-06,Office supplies purchase from W.B. Mason,1539.55,W.B. Mason,Legal,5100
+2024-11-28,Referral bonus payout – partner Partner Network,1426.74,Partner Network,IT,5600
+2024-05-08,Retained earnings adjustment – FY closing,77945.61,Internal,Operations,3100
+2024-04-23,Uber/Lyft rides – HR travel,4128.98,Hilton,HR,5200
+2024-09-01,Point of sale transaction – store #3938,20357.37,Amazon,Finance,4100
+2024-06-02,Bi-weekly salary disbursement – Legal,54450.56,Internal HR,Legal,5900
+2024-08-12,Leasehold improvements amortization,5325.58,Internal,Sales,6200
+2024-11-01,Printer toner and paper – Quill,2413.63,Quill,Finance,5100
+2024-02-27,Accounting & audit services – Grant Thornton,36664.29,Grant Thornton,Executive,5500
+2024-05-18,Outstanding receivable – project #8548,37330.14,GlobalTech,IT,1200
+2024-07-22,Overtime compensation – Legal team,105193.73,Internal HR,Legal,5900
+2024-03-14,Vendor invoice from Dell Technologies – due net 30,8475.91,Dell Technologies,Executive,2100
+2024-10-21,Consulting engagement – PwC Engagement project,86710.27,PwC Engagement,Engineering,4200
+2024-11-22,Dividend declaration – Q2 distribution,184674.53,Internal,HR,3100
+2024-06-11,Annual license – Adobe Creative Cloud enterprise plan,1215.8,Adobe Creative Cloud,IT,5400
+2024-08-02,Bulk materials procurement from Grainger,3277.66,Grainger,Sales,1300
+2024-04-02,Flight booking – Finance team to conference,1039.23,Delta Airlines,Finance,5200
+2024-08-20,Tax preparation – Ernst & Young engagement,3263.98,Ernst & Young,Operations,5500
+2024-01-08,Influencer partnership – HubSpot,19314.03,HubSpot,Sales,5800
+2024-02-12,Consulting engagement – Bain & Co project,85687.19,Bain & Co,Legal,4200
+2024-07-04,Furniture & fixtures depreciation,3324.11,Internal,HR,6200
+2024-11-01,Desk accessories and organizers – Office Depot,458.1,Office Depot,Legal,5100
+2024-01-12,Car rental – Marriott Hotels for site inspection,3422.61,Marriott Hotels,Operations,5200
+2024-05-25,Accounting & audit services – Ernst & Young,6952.08,Ernst & Young,Marketing,5500
+2024-12-04,Natural gas utility – Verizon,3848.96,Verizon,Executive,5300
+2024-08-29,Product licensing revenue from Costco,26436.29,Costco,Engineering,4100
+2024-03-30,External audit fee – Grant Thornton FY review,47113.59,Grant Thornton,Sales,5500
+2024-04-18,Workers compensation insurance – Chubb,5877.12,Chubb,Engineering,6100
+2024-06-24,Parking facility lease – WeWork,15204.62,WeWork,Operations,5700
+2024-12-06,Product sale to Target – order #7398,294.51,Target,Executive,4100
+2024-07-19,Tax preparation – BDO engagement,1207.8,BDO,Executive,5500
+2024-12-19,Referral bonus payout – partner Partner Network,24067.84,Partner Network,Finance,5600
+2024-11-24,Consulting engagement – McKinsey project,88288.29,McKinsey,Marketing,4200
+2024-06-01,External audit fee – Grant Thornton FY review,22544.21,Grant Thornton,IT,5500
+2024-10-03,Accounting & audit services – Ernst & Young,16277.61,Ernst & Young,HR,5500
+2024-05-28,Content marketing services – Meta Ads,13431.46,Meta Ads,Operations,5800
+2024-04-05,Depreciation – computer hardware Q1,2998.13,Internal,Operations,6200
+2024-08-12,Telephone/VoIP charges – ConEdison,4783.53,ConEdison,Finance,5300
+2024-05-06,Breakroom supplies from W.B. Mason,472.11,W.B. Mason,IT,5100
+2024-06-28,Leasehold improvements amortization,9931.33,Internal,Finance,6200
+2024-04-22,Warehouse lease payment – Regus,18068.21,Regus,IT,5700
+2024-02-13,External audit fee – Baker McKenzie FY review,27215.77,Baker McKenzie,Marketing,5500
+2024-03-05,Storage unit rental – CBRE Group,3790.06,CBRE Group,Operations,5700
+2024-12-14,Office supplies purchase from Office Depot,735.79,Office Depot,Engineering,5100
+2024-04-19,Accrued tax liability – Q3,18176.06,Tax Authority,HR,2200
+2024-03-12,Accrued tax liability – Q1,7470.32,Internal,Operations,2200
+2024-02-29,Car rental – Delta Airlines for site inspection,227.18,Delta Airlines,Engineering,5200
+2024-06-04,Revenue from Home Depot – bulk purchase,25557.48,Home Depot,Executive,4100
+2024-02-07,Monthly payroll – Legal department,99470.77,Gusto,Legal,5900
+2024-09-12,Telephone/VoIP charges – Comcast Business,3842.43,Comcast Business,Engineering,5300
+2024-05-02,Trade show booth – Trade Show Inc expo,17255.83,Trade Show Inc,IT,5800
+2024-07-24,Sales commission – Legal team Q3,15432.06,Channel Partners,Legal,5600
+2024-06-17,Leasehold improvements amortization,7594.37,Internal,Marketing,6200
+2024-02-21,Trade show booth – Trade Show Inc expo,894.32,Trade Show Inc,Sales,5800
+2024-05-29,External audit fee – Baker McKenzie FY review,47666.03,Baker McKenzie,Operations,5500
+2024-06-26,Overtime compensation – Finance team,48455.9,ADP Payroll,Finance,5900
+2024-08-19,Product licensing revenue from Target,140633.08,Target,Sales,4100
+2024-03-31,Monthly SaaS subscription – Jira Atlassian,11000.18,Jira Atlassian,Executive,5400
+2024-05-06,Bi-weekly salary disbursement – Sales,94762.11,Internal HR,Sales,5900
+2024-07-10,Vehicle depreciation – fleet #3340,4568.99,Internal,IT,6200
+2024-02-10,ATM withdrawal for operations,10815.54,Bank of America,Operations,1100
+2024-08-09,Trade payable – Dell Technologies procurement,17120.08,Dell Technologies,Legal,2100
+2024-04-01,Content marketing services – Meta Ads,16515.8,Meta Ads,HR,5800
+2024-09-15,Property insurance renewal – Chubb,10840.81,Chubb,IT,6100
+2024-09-03,Consulting engagement – Deloitte project,48015.82,Deloitte,Operations,4200
+2024-05-21,Monthly SaaS subscription – Slack,12370.82,Slack,Marketing,5400
+2024-06-08,Cloud hosting charges – Jira Atlassian,1110.95,Jira Atlassian,Legal,5400
+2024-10-14,Print media advertisement – HubSpot,15696.59,HubSpot,HR,5800
+2024-09-27,HR consulting retainer – Ernst & Young,32544.1,Ernst & Young,Operations,5500
+2024-09-19,Water and sewage charges – Verizon,4672.92,Verizon,Legal,5300
+2024-02-07,Client payment due from Meridian Holdings,60599.29,Meridian Holdings,Operations,1200
+2024-09-03,Product sale to Costco – order #1332,33917.66,Costco,Marketing,4100
+2024-07-10,General liability insurance premium – State Farm,14058.37,State Farm,Sales,6100
+2024-06-28,External audit fee – Grant Thornton FY review,46217.59,Grant Thornton,Finance,5500
+2024-09-22,Tax preparation – Grant Thornton engagement,39628.85,Grant Thornton,IT,5500
+2024-02-10,Breakroom supplies from Office Depot,638.28,Office Depot,Finance,5100
+2024-05-25,Natural gas utility – Comcast Business,202.46,Comcast Business,IT,5300
+2024-08-03,Internet service – Pacific Gas & Electric fiber plan,3269.5,Pacific Gas & Electric,Finance,5300
+2024-09-14,Water and sewage charges – Verizon,1988.94,Verizon,Operations,5300
+2024-12-19,HR consulting retainer – Baker McKenzie,1285.82,Baker McKenzie,Engineering,5500
+2024-01-19,Internet service – Verizon fiber plan,3616.83,Verizon,Operations,5300
+2024-06-10,Monthly payroll – Marketing department,31439.48,Internal HR,Marketing,5900
+2024-04-18,Bi-weekly salary disbursement – Sales,61177.24,Paychex,Sales,5900
+2024-05-19,Workers compensation insurance – Hartford,1347.99,Hartford,Sales,6100
+2024-03-13,Product licensing revenue from Costco,145667.63,Costco,Engineering,4100
+2024-05-11,Content marketing services – Meta Ads,3264.86,Meta Ads,Engineering,5800
+2024-12-28,Service contract revenue – Bain & Co,62792.52,Bain & Co,Finance,4200
+2024-01-29,Employee wages – pay period #8471,65681.51,Internal HR,Operations,5900
+2024-06-28,Co-working space rental – Brookfield Properties,14216.36,Brookfield Properties,Legal,5700
+2024-06-16,Uber/Lyft rides – IT travel,3657.97,Hertz Rental,IT,5200
+2024-05-02,Leasehold improvements amortization,4219.21,Internal,HR,6200
+2024-12-23,Tax preparation – Ernst & Young engagement,12935.68,Ernst & Young,HR,5500
+2024-01-07,External audit fee – Grant Thornton FY review,38985.66,Grant Thornton,IT,5500
+2024-01-20,Legal consultation fee – Ernst & Young,6499.54,Ernst & Young,HR,5500
+2024-12-04,Monthly office rent – Brookfield Properties building,13372.57,Brookfield Properties,Marketing,5700
+2024-03-13,Breakroom supplies from Office Depot,671.59,Office Depot,Executive,5100
+2024-12-22,Water and sewage charges – AT&T,4452.95,AT&T,Engineering,5300
+2024-03-01,Software renewal – AWS platform,12355.85,AWS,Finance,5400
+2024-12-28,Customer balance – Meridian Holdings Q2 billing,62541.06,Meridian Holdings,Finance,1200
+2024-06-13,Property insurance renewal – Hartford,7846.03,Hartford,Marketing,6100
+2024-04-25,Stock replenishment order #9984,23920.43,Grainger,HR,1300
+2024-11-20,Water and sewage charges – Pacific Gas & Electric,3119.34,Pacific Gas & Electric,HR,5300
+2024-04-11,Monthly retainer – PwC Engagement advisory,18486.96,PwC Engagement,Executive,4200
+2024-11-16,Accounting & audit services – Grant Thornton,4368.33,Grant Thornton,HR,5500
+2024-11-03,Breakroom supplies from W.B. Mason,465.34,W.B. Mason,Sales,5100
+2024-10-08,Depreciation – computer hardware Q2,4439.97,Internal,Marketing,6200
+2024-09-21,Vehicle depreciation – fleet #4820,2792.99,Internal,Sales,6200
+2024-02-26,Cyber liability insurance – AIG,10867.14,AIG,HR,6100
+2024-12-04,Outstanding receivable – project #3342,8980.68,Pinnacle Industries,Marketing,1200
+2024-03-23,Professional services rendered to Deloitte,28968.98,Deloitte,Marketing,4200
+2024-11-11,Uber/Lyft rides – Engineering travel,3517.96,Delta Airlines,Engineering,5200
+2024-11-06,Warehouse receipt – Grainger delivery,17093.2,Grainger,HR,1300
+2024-07-21,Cloud hosting charges – Jira Atlassian,4587.39,Jira Atlassian,Executive,5400
+2024-08-22,Accrued bonus provision – Finance,23179.25,Internal,Finance,2200
+2024-04-15,Trade show booth – Google Ads expo,1851.58,Google Ads,Sales,5800
+2024-08-22,Bank transfer received from PNC Financial,27361.24,PNC Financial,Engineering,1100
+2024-09-16,HR consulting retainer – KPMG,22847.79,KPMG,IT,5500
+2024-10-13,Warehouse receipt – Grainger delivery,26003.26,Grainger,Marketing,1300
+2024-07-25,Social media advertising – HubSpot,6917.07,HubSpot,Executive,5800
+2024-08-05,Service contract revenue – Deloitte,96495.77,Deloitte,Engineering,4200
+2024-10-04,Depreciation – computer hardware Q2,1663.95,Internal,Executive,6200
+2024-12-19,Warehouse lease payment – JLL,28007.05,JLL,Finance,5700
+2024-10-26,Water and sewage charges – ConEdison,1124.15,ConEdison,IT,5300
+2024-04-21,Telephone/VoIP charges – Comcast Business,1820.62,Comcast Business,Operations,5300
+2024-01-11,Google Ads campaign – Engineering budget Q1,5211.04,Meta Ads,Engineering,5800
+2024-12-19,Storage unit rental – CBRE Group,13810.88,CBRE Group,Legal,5700
+2024-09-20,Workers compensation insurance – Allianz,4979.73,Allianz,Engineering,6100
+2024-01-20,Trade show booth – LinkedIn Marketing expo,10343.98,LinkedIn Marketing,Marketing,5800
+2024-12-27,Co-working space rental – WeWork,17776.49,WeWork,Engineering,5700
+2024-02-12,Employee wages – pay period #9224,106313.22,Paychex,HR,5900
+2024-10-23,Print media advertisement – LinkedIn Marketing,13173.68,LinkedIn Marketing,HR,5800
+2024-12-11,Revenue from Target – bulk purchase,146515.93,Target,IT,4100
+2024-07-15,Stationery order #3088 from Amazon Business,1204.15,Amazon Business,IT,5100
+2024-06-15,Agent commission – contract #7587,21751.91,Channel Partners,Marketing,5600
+2024-12-05,Outstanding receivable – project #2016,19468.49,Pinnacle Industries,Finance,1200
+2024-06-19,Office supplies purchase from Quill,2393.54,Quill,Legal,5100
+2024-08-02,Car rental – Hertz Rental for site inspection,3084.8,Hertz Rental,IT,5200
+2024-07-20,Per diem expenses – client visit Hertz Rental,6832.79,Hertz Rental,Executive,5200
+2024-04-18,Natural gas utility – Verizon,1295.8,Verizon,Legal,5300
+2024-01-08,Water and sewage charges – AT&T,1740.56,AT&T,IT,5300
+2024-07-12,Influencer partnership – Mailchimp,10080.83,Mailchimp,Marketing,5800
+2024-01-17,Desk accessories and organizers – Office Depot,1365.53,Office Depot,Finance,5100
+2024-04-01,Vehicle depreciation – fleet #7043,9735.37,Internal,HR,6200
+2024-03-21,Depreciation – computer hardware Q4,1883.38,Internal,Marketing,6200
+2024-09-14,Channel partner commission – Internal Sales,3652.38,Internal Sales,Engineering,5600
+2024-10-04,Monthly payroll – Sales department,79251.9,ADP Payroll,Sales,5900
+2024-08-11,Trade show booth – Google Ads expo,11259.89,Google Ads,Sales,5800
+2024-03-27,Furniture & fixtures depreciation,8949.42,Internal,Engineering,6200
+2024-04-07,Monthly payroll – HR department,65247.28,Gusto,HR,5900
+2024-06-23,Social media advertising – LinkedIn Marketing,17066.02,LinkedIn Marketing,HR,5800
+2024-05-26,Online sales revenue – batch #7359,32814.66,Amazon,Executive,4100
+2024-10-25,Desk accessories and organizers – Office Depot,1076.6,Office Depot,Finance,5100
+2024-12-11,Property insurance renewal – Hartford,4929.83,Hartford,Marketing,6100
+2024-09-11,D&O insurance policy – Chubb,11488.29,Chubb,Engineering,6100
+2024-02-20,Influencer partnership – LinkedIn Marketing,3257.01,LinkedIn Marketing,HR,5800
+2024-03-25,Breakroom supplies from Staples,2228.25,Staples,Executive,5100
+2024-03-30,Consulting engagement – Bain & Co project,32689.64,Bain & Co,Operations,4200
+2024-03-31,Property insurance renewal – Chubb,8931.11,Chubb,IT,6100
+2024-12-13,Referral bonus payout – partner Sales Team,23274.71,Sales Team,Sales,5600
+2024-07-12,Property insurance renewal – AIG,7521.65,AIG,Engineering,6100
+2024-09-25,Monthly office rent – Regus building,15859.52,Regus,Engineering,5700
+2024-07-26,Warehouse lease payment – Brookfield Properties,20526.41,Brookfield Properties,HR,5700
+2024-07-15,Vehicle depreciation – fleet #9314,5240.71,Internal,Operations,6200
+2024-05-20,Vendor invoice from HP Inc – due net 30,9433.65,HP Inc,Executive,2100
+2024-12-14,Developer tools subscription – Google Workspace,8035.19,Google Workspace,Sales,5400
+2024-06-16,Content marketing services – Google Ads,11198.66,Google Ads,IT,5800
+2024-04-01,Warehouse receipt – Fastenal delivery,45440.37,Fastenal,Sales,1300
+2024-06-29,Car rental – Marriott Hotels for site inspection,3651.46,Marriott Hotels,Marketing,5200
+2024-09-06,Flight booking – Operations team to conference,2118.24,Hertz Rental,Operations,5200
+2024-05-14,Developer tools subscription – Adobe Creative Cloud,11989.47,Adobe Creative Cloud,Sales,5400
+2024-05-13,Vendor invoice from HP Inc – due net 30,34264.41,HP Inc,Executive,2100
+2024-03-13,Sales commission – Legal team Q2,1893.85,Partner Network,Legal,5600
+2024-05-22,Developer tools subscription – AWS,7646.1,AWS,Marketing,5400
+2024-03-16,Uber/Lyft rides – IT travel,6023.68,Delta Airlines,IT,5200
+2024-10-08,Revenue from Costco – bulk purchase,67731.55,Costco,Marketing,4100
+2024-10-14,Per diem expenses – client visit Hilton,2287.43,Hilton,IT,5200
+2024-07-03,Office supplies purchase from Office Depot,525.6,Office Depot,IT,5100
+2024-10-05,Implementation services – project #4664,23806.31,Boston Consulting,Legal,4200
+2024-11-30,Bi-weekly salary disbursement – Engineering,49611.45,Internal HR,Engineering,5900
+2024-01-26,Monthly electricity bill – Verizon,2121.13,Verizon,Executive,5300
+2024-04-03,Inventory purchase – raw materials from McMaster-Carr,35011.58,McMaster-Carr,Legal,1300
+2024-09-02,Referral bonus payout – partner Channel Partners,12625.24,Channel Partners,Sales,5600
+2024-09-29,Stationery order #9237 from Staples,1209.11,Staples,Engineering,5100
+2024-05-30,Employee wages – pay period #8684,33040.47,Gusto,HR,5900
+2024-09-02,Tax preparation – Grant Thornton engagement,26586.63,Grant Thornton,Executive,5500
+2024-05-19,Google Ads campaign – HR budget Q2,16878.24,HubSpot,HR,5800
+2024-01-31,Contractor payment – ADP Payroll,66886.99,ADP Payroll,Executive,5900
+2024-12-02,Accrued interest on credit facility,21475.87,ADP Payroll,Finance,2200
+2024-04-29,Influencer partnership – HubSpot,12000.11,HubSpot,Engineering,5800
+2024-09-15,Desk accessories and organizers – Quill,1170.35,Quill,Engineering,5100
+2024-09-09,Tax preparation – Baker McKenzie engagement,25467.85,Baker McKenzie,Sales,5500
+2024-10-13,Customer balance – Vertex Solutions Q1 billing,8411.78,Vertex Solutions,HR,1200
+2024-02-04,Property insurance renewal – AIG,14527.06,AIG,Legal,6100
+2024-02-09,Property insurance renewal – Hartford,7664.48,Hartford,Finance,6100
+2024-07-26,Warehouse lease payment – Regus,17148.67,Regus,Engineering,5700
+2024-03-26,Vehicle depreciation – fleet #3959,7561.34,Internal,Executive,6200
+2024-03-15,Outstanding receivable – project #6475,74535.45,Vertex Solutions,Legal,1200
+2024-10-31,Performance bonus – sales rep #5909,24542.63,Channel Partners,Executive,5600
+2024-04-24,Warehouse lease payment – WeWork,29664.69,WeWork,Executive,5700
+2024-03-10,Stationery order #2977 from Staples,2210.82,Staples,Operations,5100
+2024-10-25,Property insurance renewal – AIG,2525.24,AIG,Engineering,6100
+2024-08-25,Depreciation – computer hardware Q1,6569.46,Internal,Sales,6200
+2024-02-02,Warehouse lease payment – CBRE Group,27170.92,CBRE Group,Legal,5700
+2024-03-15,Annual license – Adobe Creative Cloud enterprise plan,2086.3,Adobe Creative Cloud,Engineering,5400
+2024-10-06,Travel reimbursement – employee #4721,7967.94,Hertz Rental,Operations,5200
+2024-03-03,Accrued wages payable – Engineering department,1311.63,Internal,Engineering,2200
+2024-09-24,Telephone/VoIP charges – Comcast Business,3419.01,Comcast Business,Marketing,5300
+2024-09-20,Per diem expenses – client visit United Airlines,1251.71,United Airlines,HR,5200
+2024-03-28,Accounting & audit services – Baker McKenzie,16761.64,Baker McKenzie,Engineering,5500
+2024-06-24,Desk accessories and organizers – Quill,416.63,Quill,HR,5100
+2024-10-24,Internet service – AT&T fiber plan,3895.63,AT&T,Engineering,5300
+2024-09-20,Point of sale transaction – store #4336,80139.62,Target,Engineering,4100
+2024-01-18,Depreciation – computer hardware Q3,7016.72,Internal,Finance,6200
+2024-04-26,External audit fee – KPMG FY review,35483.83,KPMG,Marketing,5500
+2024-12-27,Trade show booth – Meta Ads expo,5873.2,Meta Ads,Engineering,5800
+2024-03-07,Telephone/VoIP charges – ConEdison,325.61,ConEdison,Sales,5300
+2024-08-07,Email campaign platform – HubSpot,4914.64,HubSpot,Engineering,5800
+2024-05-29,Referral bonus payout – partner Sales Team,19623.8,Sales Team,Sales,5600
+2024-12-23,Contractor payment – Paychex,112704.37,Paychex,Legal,5900
+2024-08-13,Monthly retainer – McKinsey advisory,66789.19,McKinsey,Engineering,4200
+2024-08-16,Telephone/VoIP charges – AT&T,1666.46,AT&T,Operations,5300
+2024-09-04,Influencer partnership – Google Ads,6416.55,Google Ads,Operations,5800
+2024-10-04,Wire transfer deposit – Wells Fargo,38073.85,Wells Fargo,Finance,1100
+2024-06-18,Software renewal – Adobe Creative Cloud platform,12810.62,Adobe Creative Cloud,IT,5400
+2024-03-23,Referral bonus payout – partner Internal Sales,16353.43,Internal Sales,Sales,5600
+2024-06-14,Uber/Lyft rides – Sales travel,442.05,Hertz Rental,Sales,5200
+2024-02-17,Monthly depreciation – office equipment,7029.12,Internal,Marketing,6200
+2024-07-31,Accounting & audit services – KPMG,35297.41,KPMG,Finance,5500
+2024-07-05,Parking facility lease – WeWork,10327.86,WeWork,Operations,5700
+2024-10-28,D&O insurance policy – Hartford,12257.13,Hartford,Legal,6100
+2024-03-04,Cyber liability insurance – State Farm,10601.17,State Farm,Finance,6100
+2024-08-27,Employee wages – pay period #9304,92579.26,Gusto,Engineering,5900
+2024-01-02,Software renewal – Slack platform,3318.58,Slack,HR,5400
+2024-06-18,Monthly depreciation – office equipment,5449.13,Internal,Engineering,6200
+2024-10-31,Dividend declaration – Q4 distribution,66810.62,Internal,IT,3100
+2024-07-31,Revenue from Target – bulk purchase,147951.92,Target,Engineering,4100
+2024-07-02,Co-working space rental – Regus,3530.27,Regus,Finance,5700
+2024-06-24,Overtime compensation – IT team,105192.27,ADP Payroll,IT,5900
+2024-03-11,Workers compensation insurance – Hartford,1249.59,Hartford,HR,6100
+2024-04-08,Performance bonus – sales rep #9621,12316.9,Sales Team,Engineering,5600
+2024-02-16,Car rental – Marriott Hotels for site inspection,7383.71,Marriott Hotels,IT,5200
+2024-06-08,Property insurance renewal – AIG,4250.15,AIG,Finance,6100
+2024-07-03,Vehicle depreciation – fleet #2881,3512.44,Internal,Finance,6200
+2024-12-03,Accounting & audit services – KPMG,35525.38,KPMG,HR,5500
+2024-03-16,Monthly payroll – Sales department,12451.99,ADP Payroll,Sales,5900
+2024-02-07,Service contract revenue – PwC Engagement,72276.55,PwC Engagement,HR,4200
+2024-03-11,Warehouse lease payment – CBRE Group,8431.97,CBRE Group,Sales,5700
+2024-12-11,Tax preparation – BDO engagement,34734.5,BDO,Sales,5500
+2024-09-07,Influencer partnership – HubSpot,2037.33,HubSpot,HR,5800
+2024-06-07,Accrued wages payable – Engineering department,24434.83,Benefits Provider,Engineering,2200
+2024-06-19,Referral bonus payout – partner Channel Partners,20110.57,Channel Partners,HR,5600
+2024-12-02,Legal consultation fee – Ernst & Young,38520.56,Ernst & Young,IT,5500
+2024-11-17,Parking facility lease – CBRE Group,13918.78,CBRE Group,Legal,5700
+2024-02-19,Developer tools subscription – Google Workspace,6943.08,Google Workspace,HR,5400
+2024-02-12,Monthly electricity bill – AT&T,3878.34,AT&T,Legal,5300
+2024-08-29,Bank transfer received from Chase Bank,40314.12,Chase Bank,Finance,1100
+2024-05-30,Channel partner commission – Internal Sales,8023.06,Internal Sales,Marketing,5600
+2024-02-11,HR consulting retainer – Grant Thornton,25528.57,Grant Thornton,Marketing,5500
+2024-09-08,Accounting & audit services – Ernst & Young,49045.95,Ernst & Young,Sales,5500
+2024-11-12,Bi-weekly salary disbursement – Marketing,116935.38,Paychex,Marketing,5900
+2024-07-26,Cyber liability insurance – Hartford,2010.83,Hartford,Marketing,6100
+2024-04-20,Desk accessories and organizers – Quill,1347.6,Quill,IT,5100
+2024-03-13,Parking facility lease – CBRE Group,19142.12,CBRE Group,Engineering,5700
+2024-03-07,Sales commission – Operations team Q3,8699.55,Channel Partners,Operations,5600
+2024-01-02,Tax preparation – Grant Thornton engagement,2838.19,Grant Thornton,Sales,5500
+2024-06-20,Point of sale transaction – store #3807,84602.49,Target,Operations,4100
+2024-06-03,Contractor payment – Paychex,39954.77,Paychex,Sales,5900
+2024-04-06,Implementation services – project #6677,92939.7,Deloitte,Engineering,4200
+2024-01-18,Accrued bonus provision – Marketing,17885.84,Internal,Marketing,2200
+2024-08-23,Depreciation – computer hardware Q1,1412.77,Internal,Finance,6200
+2024-02-01,Developer tools subscription – Adobe Creative Cloud,4675.66,Adobe Creative Cloud,HR,5400
+2024-10-24,Wholesale product shipment to Best Buy,35202.53,Best Buy,Operations,4100
+2024-12-30,Email campaign platform – LinkedIn Marketing,761.14,LinkedIn Marketing,Legal,5800
+2024-06-01,Storage unit rental – JLL,9687.1,JLL,Sales,5700
+2024-01-15,Hotel accommodation – United Airlines business trip,3970.83,United Airlines,Operations,5200
+2024-04-26,Bank interest earned,4235.8,Chase Bank,Marketing,1100
+2024-03-22,Outstanding payable to Office Depot,9232.4,Office Depot,IT,2100
+2024-03-26,Monthly depreciation – office equipment,3602.93,Internal,Sales,6200
+2024-09-14,Influencer partnership – LinkedIn Marketing,19253.88,LinkedIn Marketing,Finance,5800
+2024-03-31,Petty cash replenishment,7935.19,Bank of America,IT,1100
+2024-09-22,Overtime compensation – Finance team,26039.14,Paychex,Finance,5900
+2024-01-06,Property insurance renewal – Allianz,13368.97,Allianz,HR,6100
+2024-05-09,Point of sale transaction – store #7277,144962.44,Home Depot,Engineering,4100
+2024-05-03,Google Ads campaign – Sales budget Q3,15676.43,LinkedIn Marketing,Sales,5800
+2024-08-24,Monthly retainer – PwC Engagement advisory,76468.65,PwC Engagement,Sales,4200
+2024-02-01,D&O insurance policy – Hartford,11593.91,Hartford,Executive,6100
+2024-01-04,Prior period adjustment – retained earnings,127676.82,Internal,IT,3100
+2024-01-30,Flight booking – IT team to conference,7138.36,United Airlines,IT,5200
+2024-04-15,Bi-weekly salary disbursement – Sales,37778.24,Gusto,Sales,5900
+2024-07-14,Monthly payroll – Operations department,89365.12,Internal HR,Operations,5900
+2024-09-14,Print media advertisement – Trade Show Inc,11753.42,Trade Show Inc,Finance,5800
+2024-10-12,Tax preparation – Ernst & Young engagement,35103.46,Ernst & Young,Engineering,5500
+2024-09-19,Implementation services – project #6975,33365.8,Bain & Co,Engineering,4200
+2024-07-21,External audit fee – Grant Thornton FY review,13751.57,Grant Thornton,Sales,5500
+2024-11-05,Storage unit rental – Brookfield Properties,20736.17,Brookfield Properties,Sales,5700
+2024-02-22,Developer tools subscription – Adobe Creative Cloud,9594.01,Adobe Creative Cloud,IT,5400
+2024-03-05,Customer balance – Pinnacle Industries Q1 billing,74217.05,Pinnacle Industries,Sales,1200
+2024-07-25,Prior period adjustment – retained earnings,30281.09,Internal,Finance,3100
+2024-07-05,Desk accessories and organizers – Staples,91.29,Staples,Engineering,5100
+2024-03-16,Vendor invoice from HP Inc – due net 30,31064.39,HP Inc,Marketing,2100
+2024-07-26,Natural gas utility – Comcast Business,1646.55,Comcast Business,Marketing,5300
+2024-11-03,Overtime compensation – Engineering team,4592.86,ADP Payroll,Engineering,5900
+2024-03-20,ATM withdrawal for operations,29506.95,Citibank,Sales,1100
+2024-12-15,Email campaign platform – Mailchimp,7783.18,Mailchimp,Executive,5800
+2024-04-24,Co-working space rental – CBRE Group,9994.47,CBRE Group,Executive,5700
+2024-01-02,Cyber liability insurance – Chubb,13092.58,Chubb,Finance,6100
+2024-11-24,Online sales revenue – batch #1033,60262.63,Amazon,Engineering,4100
+2024-09-15,Desk accessories and organizers – Quill,428.91,Quill,Legal,5100
+2024-05-15,Accrued wages payable – HR department,16476.89,Tax Authority,HR,2200
+2024-09-24,Annual license – Slack enterprise plan,9962.59,Slack,Operations,5400
+2024-01-05,Internet service – Comcast Business fiber plan,1554.95,Comcast Business,Finance,5300
+2024-04-04,Furniture & fixtures depreciation,7414.87,Internal,Marketing,6200
+2024-08-26,Monthly electricity bill – Verizon,779.09,Verizon,Sales,5300
+2024-12-20,Storage unit rental – JLL,9722.72,JLL,HR,5700
+2024-04-08,HR consulting retainer – KPMG,24563.35,KPMG,Finance,5500
+2024-09-10,Vehicle depreciation – fleet #8664,6611.39,Internal,Operations,6200
+2024-06-26,Performance bonus – sales rep #5900,18415.74,Sales Team,Marketing,5600
+2024-09-03,Developer tools subscription – Salesforce,13440.48,Salesforce,IT,5400
+2024-11-22,Agent commission – contract #2850,9061.74,Internal Sales,Finance,5600
+2024-08-16,Accounting & audit services – Grant Thornton,33292.03,Grant Thornton,Executive,5500
+2024-11-13,Overtime compensation – Executive team,46478.77,Paychex,Executive,5900
+2024-05-16,Bulk materials procurement from MaterialWorld,18777.2,MaterialWorld,IT,1300
+2024-02-25,Desk accessories and organizers – W.B. Mason,871.46,W.B. Mason,Operations,5100
+2024-08-04,Monthly electricity bill – ConEdison,1338.68,ConEdison,Legal,5300
+2024-11-12,Desk accessories and organizers – Office Depot,535.34,Office Depot,Finance,5100
+2024-11-29,General liability insurance premium – Hartford,11037.34,Hartford,Executive,6100
+2024-10-23,Developer tools subscription – Jira Atlassian,5835.28,Jira Atlassian,Executive,5400
+2024-07-04,Channel partner commission – Sales Team,18970.8,Sales Team,Sales,5600
+2024-09-29,Annual license – Microsoft 365 enterprise plan,14439.18,Microsoft 365,HR,5400
+2024-03-14,Social media advertising – LinkedIn Marketing,15886.03,LinkedIn Marketing,Executive,5800
+2024-08-27,Google Ads campaign – Sales budget Q1,4861.92,Google Ads,Sales,5800
+2024-11-30,Desk accessories and organizers – Office Depot,1002.33,Office Depot,Executive,5100
+2024-09-20,Channel partner commission – Channel Partners,11811.12,Channel Partners,IT,5600
+2024-05-23,Developer tools subscription – Salesforce,14877.82,Salesforce,Engineering,5400
+2024-04-15,Service contract revenue – Bain & Co,58325.55,Bain & Co,IT,4200
+2024-07-24,Invoice #1178 – Meridian Holdings payment pending,50102.78,Meridian Holdings,Legal,1200
+2024-11-22,Cash deposit at branch office,15097.45,Chase Bank,Executive,1100
+2024-09-22,Consulting engagement – McKinsey project,83099.47,McKinsey,Finance,4200
+2024-04-09,Stationery order #7451 from Staples,1855.48,Staples,Marketing,5100
+2024-12-28,Tax preparation – KPMG engagement,4936.65,KPMG,Engineering,5500
+2024-08-22,Accrued utility charges – Tax Authority,17803.51,Tax Authority,Marketing,2200
+2024-04-18,Annual license – Google Workspace enterprise plan,10127.84,Google Workspace,Legal,5400
+2024-01-30,Hotel accommodation – Hertz Rental business trip,5173.79,Hertz Rental,Engineering,5200
+2024-07-24,Cyber liability insurance – Allianz,5200.27,Allianz,Executive,6100
+2024-01-10,Warehouse lease payment – WeWork,8961.2,WeWork,Marketing,5700
+2024-05-22,Telephone/VoIP charges – AT&T,2930.46,AT&T,Sales,5300
+2024-04-09,Sales commission – IT team Q1,14631.33,Internal Sales,IT,5600
+2024-05-31,Cyber liability insurance – AIG,11952.02,AIG,HR,6100
+2024-09-29,Overtime compensation – Marketing team,109221.74,Internal HR,Marketing,5900
+2024-07-14,Property insurance renewal – Allianz,9381.16,Allianz,Operations,6100
+2024-06-27,Trade show booth – LinkedIn Marketing expo,4600.48,LinkedIn Marketing,Marketing,5800
+2024-04-27,Service contract revenue – PwC Engagement,38531.15,PwC Engagement,Operations,4200
+2024-10-09,Petty cash replenishment,22086.2,Bank of America,Executive,1100
+2024-05-06,Client payment due from Pinnacle Industries,25732.18,Pinnacle Industries,IT,1200
+2024-03-12,External audit fee – Baker McKenzie FY review,41509.66,Baker McKenzie,Legal,5500
+2024-09-14,Office supplies purchase from Quill,1764.77,Quill,Legal,5100
+2024-02-14,Net income transfer to retained earnings,75537.82,Internal,Legal,3100
+2024-10-26,HR consulting retainer – Baker McKenzie,37588.51,Baker McKenzie,HR,5500
+2024-12-29,Vehicle depreciation – fleet #8606,9484.01,Internal,Marketing,6200
+2024-01-15,Google Ads campaign – Legal budget Q4,17500.86,Mailchimp,Legal,5800
+2024-08-29,Natural gas utility – Pacific Gas & Electric,4653.05,Pacific Gas & Electric,Marketing,5300
+2024-07-14,Contractor payment – Internal HR,67890.38,Internal HR,Legal,5900
+2024-02-24,Printer toner and paper – Amazon Business,849.33,Amazon Business,Engineering,5100
+2024-02-09,Stationery order #4799 from Quill,187.42,Quill,Executive,5100
+2024-02-04,Wholesale product shipment to Amazon,22231.14,Amazon,HR,4100
+2024-01-17,Monthly electricity bill – ConEdison,4732.78,ConEdison,IT,5300
+2024-08-18,Workers compensation insurance – AIG,13069.01,AIG,Sales,6100
+2024-05-15,Sales commission – Finance team Q1,1685.97,Sales Team,Finance,5600
+2024-05-02,Agent commission – contract #6984,18864.84,Partner Network,IT,5600
+2024-05-11,Telephone/VoIP charges – Verizon,1385.56,Verizon,IT,5300
+2024-07-29,Car rental – United Airlines for site inspection,7891.19,United Airlines,Executive,5200
+2024-03-26,ACH deposit from Bank of America,38889.04,Bank of America,Operations,1100
+2024-01-14,Monthly payroll – Operations department,35041.75,Paychex,Operations,5900
+2024-09-26,Point of sale transaction – store #6815,1574.98,Target,Operations,4100
+2024-09-30,Tax preparation – Ernst & Young engagement,15145.29,Ernst & Young,Engineering,5500
+2024-03-15,External audit fee – BDO FY review,36125.51,BDO,Sales,5500
+2024-08-07,Annual license – Salesforce enterprise plan,1584.09,Salesforce,HR,5400
+2024-09-08,Content marketing services – Trade Show Inc,15911.09,Trade Show Inc,Legal,5800
+2024-05-15,Software renewal – Microsoft 365 platform,14314.47,Microsoft 365,Operations,5400
+2024-08-10,Accrued interest on credit facility,17692.51,Tax Authority,Operations,2200
+2024-08-26,Co-working space rental – JLL,4376.54,JLL,HR,5700
+2024-02-05,Monthly electricity bill – ConEdison,335.08,ConEdison,Operations,5300
+2024-05-16,Product sale to Amazon – order #7822,130740.54,Amazon,Legal,4100
+2024-07-04,HR consulting retainer – Baker McKenzie,40607.23,Baker McKenzie,Legal,5500
+2024-12-01,Vehicle depreciation – fleet #1355,1167.37,Internal,Executive,6200
+2024-01-22,Agent commission – contract #9650,10566.21,Internal Sales,Legal,5600
+2024-06-15,Car rental – Marriott Hotels for site inspection,6705.39,Marriott Hotels,Engineering,5200
+2024-08-10,Prior period adjustment – retained earnings,153791.55,Internal,Operations,3100
+2024-09-09,Vehicle depreciation – fleet #9376,1114.51,Internal,Operations,6200
+2024-03-21,Monthly office rent – WeWork building,26847.91,WeWork,IT,5700
+2024-12-20,Telephone/VoIP charges – AT&T,2782.21,AT&T,IT,5300
+2024-11-27,Co-working space rental – Brookfield Properties,4997.56,Brookfield Properties,IT,5700
+2024-06-15,Tax preparation – Baker McKenzie engagement,30271.11,Baker McKenzie,Sales,5500
+2024-05-08,Contractor payment – Internal HR,85174.62,Internal HR,Executive,5900
+2024-05-06,Software renewal – Microsoft 365 platform,336.85,Microsoft 365,Finance,5400
+2024-05-14,Breakroom supplies from Quill,1584.3,Quill,HR,5100
+2024-11-08,Office supplies purchase from Quill,343.58,Quill,Operations,5100
+2024-08-10,Water and sewage charges – Pacific Gas & Electric,669.63,Pacific Gas & Electric,Operations,5300
+2024-07-29,Desk accessories and organizers – Staples,1728.74,Staples,Sales,5100
+2024-04-25,Office supplies purchase from W.B. Mason,2466.38,W.B. Mason,Finance,5100
+2024-02-11,Monthly office rent – CBRE Group building,3273.68,CBRE Group,Legal,5700
+2024-06-27,Workers compensation insurance – Hartford,12951.15,Hartford,Marketing,6100
+2024-02-03,HR consulting retainer – Grant Thornton,40678.06,Grant Thornton,Operations,5500
+2024-06-03,Depreciation – computer hardware Q3,2594.33,Internal,Operations,6200
+2024-05-07,Supplier bill #1501 – Sysco Corp,14360.35,Sysco Corp,HR,2100
+2024-03-17,Storage unit rental – JLL,18414.9,JLL,Sales,5700
+2024-05-25,Desk accessories and organizers – Office Depot,2073.01,Office Depot,Finance,5100
+2024-12-14,Legal consultation fee – Grant Thornton,30711.66,Grant Thornton,HR,5500
+2024-08-15,Stationery order #1491 from Office Depot,2393.53,Office Depot,Legal,5100
+2024-03-07,Leasehold improvements amortization,3438.91,Internal,Finance,6200
+2024-12-22,Software renewal – Adobe Creative Cloud platform,11407.67,Adobe Creative Cloud,Finance,5400
+2024-03-09,Point of sale transaction – store #6924,144026.78,Walmart,Executive,4100
+2024-11-09,Retained earnings adjustment – FY closing,25060.13,Internal,Marketing,3100
+2024-01-17,Depreciation – computer hardware Q1,6332.4,Internal,Marketing,6200
+2024-10-12,Printer toner and paper – Amazon Business,2477.7,Amazon Business,Marketing,5100
+2024-11-27,Vendor invoice from Staples – due net 30,6713.03,Staples,Operations,2100
+2024-04-01,Online sales revenue – batch #1811,133298.27,Best Buy,Finance,4100
+2024-08-03,Bi-weekly salary disbursement – Sales,99694.13,Gusto,Sales,5900
+2024-12-15,Vehicle depreciation – fleet #9357,8001.07,Internal,Operations,6200
+2024-11-26,Monthly SaaS subscription – Slack,6983.58,Slack,Operations,5400
+2024-01-20,Software renewal – Slack platform,13752.2,Slack,Marketing,5400
+2024-12-20,Contractor payment – Gusto,40375.43,Gusto,HR,5900
+2024-08-03,Per diem expenses – client visit United Airlines,4732.01,United Airlines,Legal,5200
+2024-02-16,Accrued interest on credit facility,27494.94,Tax Authority,Legal,2200
+2024-09-03,Accrued bonus provision – Executive,3735.34,Tax Authority,Executive,2200
+2024-03-02,Google Ads campaign – Finance budget Q1,6012.38,HubSpot,Finance,5800
+2024-08-12,Prior period adjustment – retained earnings,43098.77,Internal,Legal,3100
+2024-02-04,Leasehold improvements amortization,2564.71,Internal,Sales,6200
+2024-09-25,Monthly electricity bill – Comcast Business,4249.35,Comcast Business,IT,5300

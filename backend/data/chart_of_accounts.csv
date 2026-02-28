@@ -1,0 +1,55 @@
+gl_code,gl_name,category,sub_category
+10,Cash & Cash Equivalents,Assets,Assets
+20,Cash & Cash Equivalents,Assets,Assets
+30,Receivables,Assets,Assets
+40,Receivables,Assets,Assets
+41,Receivables,Assets,Assets
+42,Receivables,Assets,Assets
+50,Receivables,Assets,Assets
+60,Inventory,Assets,Assets
+70,Other Current Assets,Assets,Assets
+75,Investments,Assets,Assets
+80,"Property, Plant, & Equipment",Assets,Assets
+90,"Property, Plant, & Equipment",Assets,Assets
+100,Intangible Assets,Assets,Assets
+110,Trade Payables,Liabilities and Owners Equity,Liabilities
+120,Other Payables,Liabilities and Owners Equity,Liabilities
+121,Other Payables,Liabilities and Owners Equity,Liabilities
+122,Other Payables,Liabilities and Owners Equity,Liabilities
+130,Other Payables,Liabilities and Owners Equity,Liabilities
+135,Other Payables,Liabilities and Owners Equity,Liabilities
+140,Other Current Liabilities,Liabilities and Owners Equity,Liabilities
+150,Current Installments of Long-term Debt,Liabilities and Owners Equity,Liabilities
+160,Long Term Obligations,Liabilities and Owners Equity,Liabilities
+170,Other Long Term Liabilities,Liabilities and Owners Equity,Liabilities
+180,Share Capital,Liabilities and Owners Equity,Owners Equity
+190,Share Premium,Liabilities and Owners Equity,Owners Equity
+200,Retained Earnings,Liabilities and Owners Equity,Owners Equity
+201,Dividends paid,Liabilities and Owners Equity,Owners Equity
+210,Sales,Trading account,Sales
+220,Sales Return,Trading account,Sales
+230,Cost of Sales,Trading account,Cost of Sales
+240,Staff Costs,Operating account,Operating Expenses
+250,Bad Debt Expense,Operating account,Operating Expenses
+260,Commissions,Operating account,Operating Expenses
+270,Conferences,Operating account,Operating Expenses
+280,Advertisements,Operating account,Operating Expenses
+290,Travel,Operating account,Operating Expenses
+300,Entertainment,Operating account,Operating Expenses
+310,Office Supplies,Operating account,Operating Expenses
+320,Professional Services,Operating account,Operating Expenses
+330,Telephone,Operating account,Operating Expenses
+340,Utilities,Operating account,Operating Expenses
+350,Other Expenses,Operating account,Operating Expenses
+360,Rent,Operating account,Operating Expenses
+370,Vehicles,Operating account,Depreciation & Amortization
+380,Equipment,Operating account,Depreciation & Amortization
+390,Furniture and Fixtures,Operating account,Depreciation & Amortization
+400,Amortization of Intangible Assets,Operating account,Depreciation & Amortization
+410,Interest Income,Non-operating,Interest Income
+420,Gain/Loss on Sales of Asset,Non-operating,Gain/Loss on Sales of Asset
+430,Exchange Loss/Gain,Non-operating,Exchange Loss/Gain
+431,Dividend Income,Non-operating,Dividend Income
+440,Interest Expense,Interest & Tax,Interest Expense
+450,Taxation,Interest & Tax,Taxation
+1010,Adjusting,Adjusting,Adjusting

@@ -1,0 +1,111 @@
+/* AutoLedger AI – Custom Styles */
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.2); }
+
+/* Tab buttons */
+.tab-btn {
+    color: #6b7280;
+    background: transparent;
+}
+.tab-btn:hover {
+    color: #d1d5db;
+    background: rgba(255,255,255,0.04);
+}
+.tab-btn.active {
+    color: #748ffc;
+    background: rgba(92, 124, 250, 0.1);
+}
+
+/* KPI Cards entrance animation */
+.kpi-card {
+    animation: fadeSlideUp 0.5s ease-out both;
+}
+.kpi-card:nth-child(1) { animation-delay: 0.05s; }
+.kpi-card:nth-child(2) { animation-delay: 0.1s; }
+.kpi-card:nth-child(3) { animation-delay: 0.15s; }
+.kpi-card:nth-child(4) { animation-delay: 0.2s; }
+.kpi-card:nth-child(5) { animation-delay: 0.25s; }
+
+@keyframes fadeSlideUp {
+    from { opacity: 0; transform: translateY(12px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Confidence bar */
+.conf-bar {
+    height: 6px;
+    border-radius: 3px;
+    background: rgba(255,255,255,0.06);
+    overflow: hidden;
+}
+.conf-bar-fill {
+    height: 100%;
+    border-radius: 3px;
+    transition: width 0.8s cubic-bezier(0.22,1,0.36,1);
+}
+
+/* Status badges */
+.badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 2px 10px;
+    border-radius: 9999px;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+}
+.badge-auto     { background: rgba(16,185,129,0.15); color: #34d399; }
+.badge-review   { background: rgba(245,158,11,0.15); color: #fbbf24; }
+.badge-manual   { background: rgba(239,68,68,0.15);  color: #f87171; }
+.badge-approved { background: rgba(59,130,246,0.15); color: #60a5fa; }
+.badge-rejected { background: rgba(168,85,247,0.15); color: #c084fc; }
+
+/* Review card */
+.review-card {
+    background: rgba(30,42,58,0.5);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255,255,255,0.05);
+    border-radius: 16px;
+    padding: 24px;
+    transition: border-color 0.2s;
+}
+.review-card:hover {
+    border-color: rgba(255,255,255,0.1);
+}
+
+/* Toast */
+.toast {
+    animation: toastIn 0.3s ease-out;
+}
+.toast-exit {
+    animation: toastOut 0.3s ease-in forwards;
+}
+@keyframes toastIn {
+    from { opacity: 0; transform: translateX(40px); }
+    to   { opacity: 1; transform: translateX(0); }
+}
+@keyframes toastOut {
+    from { opacity: 1; transform: translateX(0); }
+    to   { opacity: 0; transform: translateX(40px); }
+}
+
+/* Pulse glow for processing */
+.pulse-glow {
+    animation: pulseGlow 2s ease-in-out infinite;
+}
+@keyframes pulseGlow {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(92,124,250,0.3); }
+    50%      { box-shadow: 0 0 20px 4px rgba(92,124,250,0.15); }
+}
+
+/* Table row hover */
+tbody tr { transition: background 0.15s; }
+tbody tr:hover { background: rgba(255,255,255,0.02); }
+
+/* Hide scrollbar utility */
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+.scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
