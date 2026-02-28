@@ -15,7 +15,7 @@ services:
   - type: web
     name: autoledger-frontend
     env: static
-    publishPath: ./frontend
+    staticPublishPath: ./frontend
     envVars:
       - key: BACKEND_URL
         value: https://autoledger-backend.onrender.com # Change this if your name differs
